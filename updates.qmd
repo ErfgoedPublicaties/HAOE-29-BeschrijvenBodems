@@ -1,0 +1,13 @@
+# Updates {.unnumbered}
+
+In het overzicht hier onder worden de belangrijkste wijzigingen ten opzichte van [de originele publicatie uit 2023](https://doi.org/10.55465/TJAE3292) opgesomd in chronologische volgorde.
+
+<br/>
+<br/>
+
+#### 0.0.1 (22-05-2023)  
+
+- ***Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen*** online te raadplegen via <https://hanecakr.github.io/handleidingBeschrijvenBodems/>, zoals gepubliceerd door Mikkelsen *et al.* in 2023.
+
+
+

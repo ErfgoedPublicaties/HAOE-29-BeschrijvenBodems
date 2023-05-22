@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen",
+    "section": "",
+    "text": "Welkom!"
+  },
+  {
+    "objectID": "index.html#woord-vooraf",
+    "href": "index.html#woord-vooraf",
+    "title": "Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen",
+    "section": "Woord vooraf",
+    "text": "Woord vooraf\nWelkom bij de online versie van de Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen. Deze handleiding werd in 2023 gepubliceerd door het agentschap Onroerend Erfgoed en is als pdf te downloaden op de Open Archives Repository (OAR).\nMet deze online versie willen we kleine aanpassingen aan de originele uitgave, veranderende inzichten en nieuwe toepassingen binnen het beschrijven van bodems bij archeologisch onderzoek - op basis van recente, wetenschappelijke ontwikkelingen - sneller ontsluiten. De basis van deze handleiding blijft de originele uitgave, maar hier kan je steeds de meest actuele versie raadplegen."
+  },
+  {
+    "objectID": "index.html#citeren",
+    "href": "index.html#citeren",
+    "title": "Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen",
+    "section": "Citeren",
+    "text": "Citeren\nGelieve te citeren als: \nMikkelsen J., Ampe C., Cools N., Devos Y., Dondeyne S., Oorts K., Pieters M. & Langohr R. (r Sys.Date()): Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen, Handleidingen agentschap Onroerend Erfgoed, Brussel. https://hanecakr.github.io/handleidingBeschrijvenBodems/\nOorspronkelijke gepubliceerd als: \nMikkelsen J., Ampe C., Cools N., Devos Y., Dondeyne S., Oorts K., Pieters M. & Langohr R. 2023: Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen, Handleidingen agentschap Onroerend Erfgoed 29, Brusssel. doi: https://doi.org/10.55465/TJAE3292\n\n\n\nFiguur 1: Het profiel toont een begraven grondwaterpodzol (-50/-130 cm) (alle kleuren zijn te wijten aan organische stoffen) met een zwarte humushorizont van een moerasbos (-50/-60 cm). De bovenste 50 cm is aangevoerde grond met bovenaan een 25 cm dikke ploeglaag. In de diepte (-170 cm) bevindt zich iets waterhard, met name doppleriet waarschijnlijk afkomstig van veen in nog lagere posities. Origineel was dit een voethelling van een dekzandrug. De dekzandrug werd genivelleerd voor akkerbouw, zodat het hogere deel van de dekzandrug minder droog werd. Het lagere, moerassige deel (foto) werd opgevuld zodat de grondwatertafel dieper komt te liggen. Dit is een veel voorkomende sequentie in de dekzandrugstreek van Vlaanderen.  Site: Aalter / foto en copyright Roger Langohr"
+  },
+  {
+    "objectID": "updates.html",
+    "href": "updates.html",
+    "title": "Updates",
+    "section": "",
+    "text": "In het overzicht hier onder worden de belangrijkste wijzigingen ten opzichte van de originele publicatie uit 2023 opgesomd in chronologische volgorde.\n \n\n0.0.1 (22-05-2023)\n\nVeldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen online te raadplegen via https://hanecakr.github.io/handleidingBeschrijvenBodems/, zoals gepubliceerd door Mikkelsen et al. in 2023."
+  },
+  {
+    "objectID": "01_inleiding.html#landschappelijke-boringen",
+    "href": "01_inleiding.html#landschappelijke-boringen",
+    "title": "1  Inleiding",
+    "section": "1.1 Landschappelijke boringen",
+    "text": "1.1 Landschappelijke boringen\nOm het aantal beschrijvingen op referentieniveau te bepalen bij een landschappelijk booronderzoek, hanteert de aardkundige de richtlijnen in onderstaande tabel:\n\n\n\nAantal boringen (n)\nAantal referentieboringen\n\n\n\n\n≤20\n5\n\n\n21-30\n6\n\n\n31-40\n7\n\n\nPer bijkomende 10 boringen:\n+1\n\n\n\nVoorbeeld: Een booronderzoek telt 23 boringen. Hiervan moet de aardkundige zes boringen op referentieniveau beschrijven. Voor de overige 17 boringen volstaat een beschrijving op basisniveau.\nVoorbeeld: Een booronderzoek telt 67 boringen. Hiervan moet de aardkundige 7 + (67-40)/10 = 7 + 2,7= 9,7 ≈ 10 boringen op referentieniveau beschrijven. Voor de overige 57 boringen volstaat een beschrijving op basisniveau.\nVoorbeeld: Een booronderzoek telt 258 boringen. Hiervan moet de aardkundige 7 + (258-40)/10 = 7 +21,8= 28,8 ≈ 29 boringen op referentieniveau beschrijven. Voor de overige 229 boringen volstaat een beschrijving op basisniveau."
+  },
+  {
+    "objectID": "01_inleiding.html#landschappelijke-profielputten-proefsleuven-en-proefputten-proefputten-in-functie-van-steentijd-artefactensites-en-archeologische-opgravingen.",
+    "href": "01_inleiding.html#landschappelijke-profielputten-proefsleuven-en-proefputten-proefputten-in-functie-van-steentijd-artefactensites-en-archeologische-opgravingen.",
+    "title": "1  Inleiding",
+    "section": "1.2 Landschappelijke profielputten, proefsleuven en proefputten, proefputten in functie van steentijd artefactensites en archeologische opgravingen.",
+    "text": "1.2 Landschappelijke profielputten, proefsleuven en proefputten, proefputten in functie van steentijd artefactensites en archeologische opgravingen.\nBij landschappelijke profielputten, proefsleuven en proefputten, proefputten in functie van steentijd artefactensites en archeologische opgravingen (inclusief werfbegeleiding) maakt het bepalen van het aantal profielbeschrijvingen op referentieniveau deel uit van het bureauonderzoek. Dit gebeurt door de erkende archeoloog na samenspraak met de aardkundige of assistent-aardkundige.\nEr zijn twee soorten situaties:\n\nHet projectgebied ligt volledig in een zone die gekarteerd is (Bodemkaart van België) volgens de morfogenetische karteringslegende of volgens de legende van de kuststreek:\n\n\nHet aantal karteringseenheden aanwezig binnen het projectgebied op de bodemkaart op schaal 1/20.000 is gelijk aan het minimum te beschrijven aantal aardkundige profielen op referentieniveau. Voor elke karteringseenheid moet er dus minstens één profielbeschrijving op referentieniveau zijn. De aardkundige die het veldwerk uitvoert, kiest zelf de locaties van de bodemprofielen tijdens het veldwerk, zodat elke karteringseenheid op de bodemkaart op schaal 1/20.000 minstens door één referentiebeschrijving is vertegenwoordigd.\nAls het projectgebied het voorwerp uitmaakt van opeenvolgende fases van vooronderzoek en onderzoek met een aardkundig luik dan kan de aardkundige de profielen beschreven op referentieniveau van alle fases opnemen in de berekening van het aantal op referentieniveau te beschrijven profielen. Dus wanneer er bijvoorbeeld tijdens een vooronderzoek met proefsleuven en proefputten al de nodige profielbeschrijvingen op referentieniveau zijn gemaakt dan hoeft dit niet herhaald te worden bij een eventuele latere archeologische opgraving van dit terrein.\n\n\nHet projectgebied is niet of slechts gedeeltelijk in kaart gebracht (Bodemkaart van België):\nHet volgens de morfogenetische legende of de legende van de kuststreek gekarteerde gedeelte van het projectgebied volgt bovenstaande richtlijnen. Voor het gedeelte van het projectgebied waarover de Bodemkaart van België geen informatie biedt (code OA, OB, OC, OD, OE, OG, OL, ON, OO, OT, OU, OV, OZ, etc.), past de aardkundige volgende regels toe om het aantal referentiebodemprofielen te bepalen:\n\n\n\n\nProjectgebied in m²\nMinimum aantal referentiebodemprofielen\n\n\n\n\n&lt;1000\n2\n\n\n1.000-2.000\n3\n\n\n2.000-4.000\n4\n\n\nPer bijkomende 2.000m²\n+1"
+  },
+  {
+    "objectID": "01_inleiding.html#hoe-bepaal-je-het-registratieniveau-voor-boringen-en-voor-profielen",
+    "href": "01_inleiding.html#hoe-bepaal-je-het-registratieniveau-voor-boringen-en-voor-profielen",
+    "title": "1  Inleiding",
+    "section": "1.3 Hoe bepaal je het registratieniveau voor boringen en voor profielen?",
+    "text": "1.3 Hoe bepaal je het registratieniveau voor boringen en voor profielen?\nBij boringen vormt de eerste boring automatisch een boring op referentieniveau. Voor de volgende boringen volstaat in principe een beschrijving op basisniveau. Zodra de horizontenopvolging duidelijk verschilt van de eerste boring en er horizonten verschijnen of verdwijnen of textuur of drainage wijzigt, volgt een nieuwe beschrijving op referentieni- veau. De verhouding tussen het aantal boringen en het aantal boringen beschreven op referentieniveau van de tabel hierboven is hierbij een goede richtlijn om aan te houden.\nDezelfde aanpak geldt bij het beschrijven van bodemprofielen. De profielen die de variabiliteit op het terrein vatten, vereisen een beschrijving op referentieniveau. Voor de overige profielen die gelijkaardig zijn aan de referentieprofielen en daarom als ondersteunend kunnen gelden, volstaat een beschrijving op basisniveau.\nDe aardkundige of assistent-aardkundige maakt de inschatting wanneer een beschrijving op referentieniveau nodig is en beargumenteert dit in het eindverslag.\nDe veldhandleiding behandelt de belangrijkste bodemkenmerken die mogelijk aan bod komen bij een aardkundig onderzoek op archeologische sites of bij archeologisch onderzoek in Vlaanderen. Om bodembeschrijvingen met elkaar te kunnen vergelijken, zoals bijvoorbeeld bij syntheseonderzoeken, is essentieel dat ze op een objectieve en gestan- daardiseerde manier gebeuren. De uniformiteit van de gegevens vergemakkelijkt ook de opname van de informatie in de gegevensbank van de Databank Ondergrond Vlaanderen (DOV).\nHet vertrekpunt voor deze veldhandleiding zijn de FAO Guidelines for Soil Description (FAO 2006), een methodiek uitgewerkt door de Wereldvoedselorganisatie met als doel bodems te bestuderen in functie van landbouwproductie. Deze handleiding is afgestemd op de noden van archeologisch terreinonderzoek in Vlaanderen. De aanpassingen zijn gebaseerd op de ervaringen en bevindingen van de auteurs en in het bijzonder op de expertise van prof. em. Dr. Roger Langohr.\nDe veldhandleiding is een verkorte versie van een uitgebreide bodemhandleiding en is bedoeld voor gebruik door de aardkundige of de assistent-aardkundige tijdens het veldwerk.\nHoofdstuk 2 bespreekt welke algemene informatie men moet noteren over het onderzoek en de locatie van het onderzoek.\nHoofdstuk 3 behandelt de belangrijkste bodemvormende factoren.\nHoofdstuk 4 vormt een handige en beknopte gids voor de bodemkundige beschrijving van de individuele bodemhori- zonten of archeologische lagen, zowel in boringen als in bodemprofielen.\nHoofdstuk 5, tot slot, geeft extra info omtrent de classificatie van het bodemprofiel op basis van de profielbeschrij- ving of boring.\n\n\n\nFiguur 1.1: Bodem ontwikkeld in loess met waterstagnatie op ± 40-50cm diepte. De bleke verticale tongen vormen een polygonale structuur en gaan door de fragipan.  Site: Zoniënwoud Brussel / foto en copyright: Roger Langohr"
+  },
+  {
+    "objectID": "00_inleiding.html#landschappelijke-boringen",
+    "href": "00_inleiding.html#landschappelijke-boringen",
+    "title": "Inleiding",
+    "section": "Landschappelijke boringen",
+    "text": "Landschappelijke boringen\nOm het aantal beschrijvingen op referentieniveau te bepalen bij een landschappelijk booronderzoek, hanteert de aardkundige de richtlijnen in onderstaande tabel:\n\n\n\nAantal boringen (n)\nAantal referentieboringen\n\n\n\n\n≤20\n5\n\n\n21-30\n6\n\n\n31-40\n7\n\n\nPer bijkomende 10 boringen:\n+1\n\n\n\nVoorbeeld: Een booronderzoek telt 23 boringen. Hiervan moet de aardkundige zes boringen op referentieniveau beschrijven. Voor de overige 17 boringen volstaat een beschrijving op basisniveau.\nVoorbeeld: Een booronderzoek telt 67 boringen. Hiervan moet de aardkundige 7 + (67-40)/10 = 7 + 2,7= 9,7 ≈ 10 boringen op referentieniveau beschrijven. Voor de overige 57 boringen volstaat een beschrijving op basisniveau.\nVoorbeeld: Een booronderzoek telt 258 boringen. Hiervan moet de aardkundige 7 + (258-40)/10 = 7 +21,8= 28,8 ≈ 29 boringen op referentieniveau beschrijven. Voor de overige 229 boringen volstaat een beschrijving op basisniveau."
+  },
+  {
+    "objectID": "00_inleiding.html#landschappelijke-profielputten-proefsleuven-en-proefputten-proefputten-in-functie-van-steentijd-artefactensites-en-archeologische-opgravingen.",
+    "href": "00_inleiding.html#landschappelijke-profielputten-proefsleuven-en-proefputten-proefputten-in-functie-van-steentijd-artefactensites-en-archeologische-opgravingen.",
+    "title": "Inleiding",
+    "section": "Landschappelijke profielputten, proefsleuven en proefputten, proefputten in functie van steentijd artefactensites en archeologische opgravingen.",
+    "text": "Landschappelijke profielputten, proefsleuven en proefputten, proefputten in functie van steentijd artefactensites en archeologische opgravingen.\nBij landschappelijke profielputten, proefsleuven en proefputten, proefputten in functie van steentijd artefactensites en archeologische opgravingen (inclusief werfbegeleiding) maakt het bepalen van het aantal profielbeschrijvingen op referentieniveau deel uit van het bureauonderzoek. Dit gebeurt door de erkende archeoloog na samenspraak met de aardkundige of assistent-aardkundige.\nEr zijn twee soorten situaties:\n\nHet projectgebied ligt volledig in een zone die gekarteerd is (Bodemkaart van België) volgens de morfogenetische karteringslegende of volgens de legende van de kuststreek:\n\n\nHet aantal karteringseenheden aanwezig binnen het projectgebied op de bodemkaart op schaal 1/20.000 is gelijk aan het minimum te beschrijven aantal aardkundige profielen op referentieniveau. Voor elke karteringseenheid moet er dus minstens één profielbeschrijving op referentieniveau zijn. De aardkundige die het veldwerk uitvoert, kiest zelf de locaties van de bodemprofielen tijdens het veldwerk, zodat elke karteringseenheid op de bodemkaart op schaal 1/20.000 minstens door één referentiebeschrijving is vertegenwoordigd.\nAls het projectgebied het voorwerp uitmaakt van opeenvolgende fases van vooronderzoek en onderzoek met een aardkundig luik dan kan de aardkundige de profielen beschreven op referentieniveau van alle fases opnemen in de berekening van het aantal op referentieniveau te beschrijven profielen. Dus wanneer er bijvoorbeeld tijdens een vooronderzoek met proefsleuven en proefputten al de nodige profielbeschrijvingen op referentieniveau zijn gemaakt dan hoeft dit niet herhaald te worden bij een eventuele latere archeologische opgraving van dit terrein.\n\n\nHet projectgebied is niet of slechts gedeeltelijk in kaart gebracht (Bodemkaart van België):\nHet volgens de morfogenetische legende of de legende van de kuststreek gekarteerde gedeelte van het projectgebied volgt bovenstaande richtlijnen. Voor het gedeelte van het projectgebied waarover de Bodemkaart van België geen informatie biedt (code OA, OB, OC, OD, OE, OG, OL, ON, OO, OT, OU, OV, OZ, etc.), past de aardkundige volgende regels toe om het aantal referentiebodemprofielen te bepalen:\n\n\n\n\nProjectgebied in m²\nMinimum aantal referentiebodemprofielen\n\n\n\n\n&lt;1000\n2\n\n\n1.000-2.000\n3\n\n\n2.000-4.000\n4\n\n\nPer bijkomende 2.000m²\n+1"
+  },
+  {
+    "objectID": "00_inleiding.html#hoe-bepaal-je-het-registratieniveau-voor-boringen-en-voor-profielen",
+    "href": "00_inleiding.html#hoe-bepaal-je-het-registratieniveau-voor-boringen-en-voor-profielen",
+    "title": "Inleiding",
+    "section": "Hoe bepaal je het registratieniveau voor boringen en voor profielen?",
+    "text": "Hoe bepaal je het registratieniveau voor boringen en voor profielen?\nBij boringen vormt de eerste boring automatisch een boring op referentieniveau. Voor de volgende boringen volstaat in principe een beschrijving op basisniveau. Zodra de horizontenopvolging duidelijk verschilt van de eerste boring en er horizonten verschijnen of verdwijnen of textuur of drainage wijzigt, volgt een nieuwe beschrijving op referentieni- veau. De verhouding tussen het aantal boringen en het aantal boringen beschreven op referentieniveau van de tabel hierboven is hierbij een goede richtlijn om aan te houden.\nDezelfde aanpak geldt bij het beschrijven van bodemprofielen. De profielen die de variabiliteit op het terrein vatten, vereisen een beschrijving op referentieniveau. Voor de overige profielen die gelijkaardig zijn aan de referentieprofielen en daarom als ondersteunend kunnen gelden, volstaat een beschrijving op basisniveau.\nDe aardkundige of assistent-aardkundige maakt de inschatting wanneer een beschrijving op referentieniveau nodig is en beargumenteert dit in het eindverslag.\nDe veldhandleiding behandelt de belangrijkste bodemkenmerken die mogelijk aan bod komen bij een aardkundig onderzoek op archeologische sites of bij archeologisch onderzoek in Vlaanderen. Om bodembeschrijvingen met elkaar te kunnen vergelijken, zoals bijvoorbeeld bij syntheseonderzoeken, is essentieel dat ze op een objectieve en gestan- daardiseerde manier gebeuren. De uniformiteit van de gegevens vergemakkelijkt ook de opname van de informatie in de gegevensbank van de Databank Ondergrond Vlaanderen (DOV).\nHet vertrekpunt voor deze veldhandleiding zijn de FAO Guidelines for Soil Description (FAO 2006), een methodiek uitgewerkt door de Wereldvoedselorganisatie met als doel bodems te bestuderen in functie van landbouwproductie. Deze handleiding is afgestemd op de noden van archeologisch terreinonderzoek in Vlaanderen. De aanpassingen zijn gebaseerd op de ervaringen en bevindingen van de auteurs en in het bijzonder op de expertise van prof. em. Dr. Roger Langohr.\nDe veldhandleiding is een verkorte versie van een uitgebreide bodemhandleiding en is bedoeld voor gebruik door de aardkundige of de assistent-aardkundige tijdens het veldwerk.\nHoofdstuk 1 bespreekt welke algemene informatie men moet noteren over het onderzoek en de locatie van het onderzoek.\nHoofdstuk 2 behandelt de belangrijkste bodemvormende factoren.\nHoofdstuk 3 vormt een handige en beknopte gids voor de bodemkundige beschrijving van de individuele bodemhori- zonten of archeologische lagen, zowel in boringen als in bodemprofielen.\nHoofdstuk 4, tot slot, geeft extra info omtrent de classificatie van het bodemprofiel op basis van de profielbeschrij- ving of boring.\n\n\n\nFiguur 1: Bodem ontwikkeld in loess met waterstagnatie op ± 40-50cm diepte. De bleke verticale tongen vormen een polygonale structuur en gaan door de fragipan. Site: Zoniënwoud Brussel / foto en copyright: Roger Langohr"
+  },
+  {
+    "objectID": "01_algemeneInfo.html#projectcode",
+    "href": "01_algemeneInfo.html#projectcode",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.1 Projectcode",
+    "text": "1.1 Projectcode\nDit is het unieke identificatienummer dat door het Agentschap Onroerend Erfgoed aan een fase van het vooronder- zoek (onderzoeksmethode) of aan een archeologische opgraving wordt toegekend. Het aardkundig onderzoek heeft ofwel een eigen projectcode zoals bij landschappelijk bodemonderzoek ofwel wordt het uitgevoerd onder de project- code van een andere fase van het onderzoek, bijvoorbeeld in geval van proefsleuven en proefputten of van een arche- ologische opgraving.\n\nVoorbeeld:\n2021H037"
+  },
+  {
+    "objectID": "01_algemeneInfo.html#interne-projectcode",
+    "href": "01_algemeneInfo.html#interne-projectcode",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.2 Interne projectcode",
+    "text": "1.2 Interne projectcode\nDe interne projectcode is de code die eventueel nog door de organisator van het aardkundig onderzoek wordt gegeven."
+  },
+  {
+    "objectID": "01_algemeneInfo.html#site-locatie",
+    "href": "01_algemeneInfo.html#site-locatie",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.3 Site locatie",
+    "text": "1.3 Site locatie\nDe site locatie vermeldt de locatie binnen administratieve entiteiten. Deze bevat minstens de gemeente en indien zinvol een straatnaam of een volledig adres."
+  },
+  {
+    "objectID": "01_algemeneInfo.html#type-onderzoek",
+    "href": "01_algemeneInfo.html#type-onderzoek",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.4 Type onderzoek",
+    "text": "1.4 Type onderzoek\nHet type onderzoek (doel) waarbinnen het (referentie)profiel of de boring wordt opgemaakt (tabel 1).\n\n\n\nLandschappelijke profielputten\n\n\n\n\nProefsleuven en proefputten\n\n\nProefputten in functie van prehistorische artefactensites\n\n\nOpgraving/werfbegeleiding\n\n\nBureauonderzoek (controleboringen)\n\n\nLandschappelijk booronderzoek\n\n\nVerkennend archeologisch booronderzoek\n\n\nWaarderend archeologisch booronderzoek\n\n\nGeofysisch onderzoek\n\n\nAnder type (definieer)"
+  },
+  {
+    "objectID": "01_algemeneInfo.html#referentieprofielboringnummer",
+    "href": "01_algemeneInfo.html#referentieprofielboringnummer",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.5 (Referentie)profiel/boringnummer",
+    "text": "1.5 (Referentie)profiel/boringnummer\nHet uniek nummer van de boring en het unieke nummer waaronder het (referentie)profiel op het vlakplan is opge- nomen en dat binnen het project het (referentie)profiel/de boring identificeert."
+  },
+  {
+    "objectID": "01_algemeneInfo.html#het-herkenninsgsnummer",
+    "href": "01_algemeneInfo.html#het-herkenninsgsnummer",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.6 Het herkenninsgsnummer",
+    "text": "1.6 Het herkenninsgsnummer\nHet (de) herkenningsnummer(s) van de kaarten of plannen waarop het (referentie)profiel/de boring is (zijn) geregistreerd."
+  },
+  {
+    "objectID": "01_algemeneInfo.html#datum-bodemberschrijvingdatum-uitvoering-van-de-boring",
+    "href": "01_algemeneInfo.html#datum-bodemberschrijvingdatum-uitvoering-van-de-boring",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.7 Datum bodemberschrijving/datum uitvoering van de boring",
+    "text": "1.7 Datum bodemberschrijving/datum uitvoering van de boring\nDe datum van de beschrijving geeft aan hoe oud de gegevens zijn en in welk seizoen deze zijn opgenomen.\n\nVoorbeeld\n1954-05-31 (jaar; maand; dag)"
+  },
+  {
+    "objectID": "01_algemeneInfo.html#auteurs-en-organisatie",
+    "href": "01_algemeneInfo.html#auteurs-en-organisatie",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.8 Auteur(s) en organisatie",
+    "text": "1.8 Auteur(s) en organisatie\nDe voor- en achternaam van de aardkundige (n) of assistent-aardkundige(n) die de registratie van de boring uitvoer- de(n) of die de bodembeschrijving realiseerde(n).\nAls de persoon die de gegevens valideert, verschilt van het veldteam, moet zijn/haar naam ook worden vermeld. De organisatie waarvoor de auteur werkt op het moment van het veldwerk, wordt eveneens hier gerapporteerd."
+  },
+  {
+    "objectID": "01_algemeneInfo.html#x-en-y-coördinaten",
+    "href": "01_algemeneInfo.html#x-en-y-coördinaten",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.9 X en Y-coördinaten",
+    "text": "1.9 X en Y-coördinaten\nDe X- en Y-coördinaten van de boring of van het begin- en eindpunt van het (referentie)profiel of van de observatie worden met een GPS ingemeten.\nPlanimetrie in Lambert 72 coördinaten (EPSG:31370) en/of decimale graden met minstens 5 decimalen.\n\nVoorbeeld\nBL72 (EPSG:31370) X: 214082,00; Y: 186130,00\nN 5.28132, E 50.98186\n\nWaar gebruik van een GPS niet mogelijk is, kan je de locatie van een topografische kaart aflezen. Vermeld in dit geval de kaartreferenties. Dit kan ook een digitale kaart zijn.\n\nVoorbeeld\nNGI: 1:50.000, kaartblad 22/4 Gent.\n\nMaak gebruik van onderstaande categorieën (tabel 2) om de manier waarop de x en y-coördinaten werden ingemeten, aan te duiden.\n\n\n\nXY_topografisch ingemeten\n\n\n\n\nXY_totaalstation\n\n\nXY_GPS (nk 10m)\n\n\nXY_GPS RTK-FLEPOS (nk 2-3cm)"
+  },
+  {
+    "objectID": "01_algemeneInfo.html#hoogteligging",
+    "href": "01_algemeneInfo.html#hoogteligging",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.10 Hoogteligging",
+    "text": "1.10 Hoogteligging\nDuid de hoogteligging van de bovenzijde ter hoogte van het begin- en eindpunt van het (referentie)profiel of van de boring aan in meter (ten opzichte van de Tweede Algemene Waterpassing) met één cijfer na de komma.\nVermeld volgens het coderingssysteem in tabel 3 hoe de hoogte is gemeten: meting met GPS, bepaling in GIS, aflezing van een topografische kaart, ...\n\nVoorbeeld\n32,1 m, afgelezen van NGI topografisch kaart nr. 33/7-8 Borgloon, 1/25.000.\n\n\n\n\nZ_topografisch ingemeten\n\n\n\n\nZ_DHM_v1 100m*100m\n\n\nZ_DHM_v1 25m*25m\n\n\nZ_DHM_v1 5m*5m\n\n\nZ_DHM_v2\n\n\nZ_totaalstation\n\n\nZ_GPS – RTK FLEPOS"
+  },
+  {
+    "objectID": "01_algemeneInfo.html#de-weersomstandigheden",
+    "href": "01_algemeneInfo.html#de-weersomstandigheden",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.11 De weersomstandigheden",
+    "text": "1.11 De weersomstandigheden\nDe weersomstandigheden tijdens het beschrijven van het profiel of de boring.\n\n1.11.1 Weer\nVoor het beschrijven van het weer wordt gebruik gemaakt van de categorieën opgelijst in tabel 4. De laatste cate- gorie (geen invloed van weer en wind) is bedoeld voor onderzoeken bijvoorbeeld in een gebouw, in een kelder, onder een afdak, ...\n\n\n\nZonnig/helder\n\n\n\n\nGedeeltelijk bewolkt\n\n\nBewolkt\n\n\nMist\n\n\nBuien (wisselvallig)\n\n\nRegen\n\n\nSmeltende sneeuw\n\n\nSneeuw\n\n\nGeen invloed van weer en wind\n\n\n\n\n\n1.11.2 Temperatuur\nNoteer of de temperatuur is gemeten of geschat en het tijdstip waarop dit gebeurd is. Bij een schatting worden klassen per 5°C toegepast.\n\nVoorbeeld\n5-10°C geschat. 8°C gemeten.\n\n\n\n1.11.3 Bijzondere weersomstandigheden\nNoteer bijzondere weersomstandigheden in de laatste dagen, weken, maanden voorafgaand aan de beschrijving, indien deze een invloed hebben op de site en de huidige bodemtoestand.\n\nVoorbeeld\nUitzonderlijk intense regen in de laatste weken waardoor de tijdelijke watertafel abnormaal hoog staat."
+  },
+  {
+    "objectID": "01_algemeneInfo.html#veldgegevens-specifiek-voor-een-booronderzoek",
+    "href": "01_algemeneInfo.html#veldgegevens-specifiek-voor-een-booronderzoek",
+    "title": "1  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "1.12 Veldgegevens specifiek voor een booronderzoek",
+    "text": "1.12 Veldgegevens specifiek voor een booronderzoek\n\n1.12.1 De boorstrategie\nDe boorstrategie wordt vooraf bepaald in functie van de vraagstelling, de bodemtypes, de bodemhydrologie, de complexiteit van het projectgebied en de zichtbare landschapselementen. Mogelijke strategieën zijn:\n\nKennisopbouw: booronderzoek volgens voortschrijdend inzicht\nBooronderzoek met vaste boorafstand in transecten\nBooronderzoek met vast verspringend raster\n\n\n\n1.12.2 De boorafstand\nDit is enkel relevant voor boringen uitgevoerd in een transect of een rasterpatroon:\n\nAfstand (in m) tussen de boringen langs het transect/raster\nAfstand (in m) tussen de transecten of boorraaien\n\n\n\n1.12.3 De oriëntatie van de boorraaien\nEen boorraai is een reeks boringen die (min of meer) op een rechte lijn worden uitgevoerd, meestal met dezelfde afstand tussen de boringen. Noteer de oriëntatie(s) van de boorraaien in graden of volgens de windrichtingen. Vertrek vanuit de eerst uitgevoerde boorpunten richting de laatst uitgevoerde boorpunten. Bepaal de oriëntatie met een kompas of achteraf in GIS.\n\nVoorbeeld\nOriëntatie boorraai: 350°-170° of NNW-ZZO.\n\n\n\n1.12.4 De diameter van de grondboor\nDe diameter van de gebruikte boorkop in cm.\n\nVoorbeeld rapportering\nBoring gezet met combiboor, 7 cm diameter, vanaf 0 tot 220 cm diepte; guts van 5 cm diameter tussen 220 en 320 cm diepte; guts van 3 cm diameter tussen 320 en 400 cm diepte.\n\n\n\n1.12.5 De boortechniek en type grondboor\n\n1.12.5.1 De boortechniek\n\nManueel\nMechanisch\nCombinatie\n\n\n\n1.12.5.2 Manueel boortype\nVermeld het/de type(s) grondbo(o)r(en) dat/die je binnen eenzelfde booronderzoek gebruikt.\n\nVoorbeelden\nBoortypes geschikt voor bepaalde bodemtexturen:\n\nCombiboor\nZandboor\nGrofzandboor\nKleiboor\nGrindboor\n\nSpeciale boortypes:\n\nRiversideboor\nGutsboor\nVeenboor\nZuigerboor\nPulsboor\nSchroefboor\n\nAndere (voeg beschrijving toe)\n\n\n\n1.12.5.3 Mechanisch boortype\nVermeld het type mechanische boor dat je binnen eenzelfde booronderzoek gebruikt.\n\nVoorbeelden\n\nGeoprobe steekboring\n(Sonische) piston boring\n(Sonische) piston boring met Aqualock\nBegemannboring\nAndere (voeg beschrijving toe)\n\n\n\n\n\n1.12.6 Boordiepte\nNoteer de totale boordiepte in cm van elke boring. De bovenzijde (0 cm-diepte) van het profiel is het organische, minerale of antropogene oppervlak, uitgezonderd de strooisellaag (zie § 3.2.2, Figuur 6). Een asfaltwegdek of een tegel- vloer is dus een deel van de boring.\n\nVoorbeeld: rapportering van de veldgegevens specifiek voor een booronderzoek\nLandschappelijk booronderzoek met vaste boorafstand in transecten. Langs een transect is er elke 50 m een boring uitgevoerd, de afstand tussen de boorraaien met een NNW oriëntatie bedraagt 35 m. Elke 5de boring werd op referentieniveau beschreven. Tijdens het booronderzoek werd een combiboor, diameter 7 cm, tot het niveau van de grondwatertafel gebruikt. Vanaf dan werd er verder met een gutsboor van 3 cm diameter geboord.\n\n\n\n\nFiguur 1.1: Plaggenbodem (±70cm) met begraven dunne (±25cm) Podzol boven een glauconiethoudend kleiig substraat. Site: Straalse Bossen Olmen / foto en copyright: Nathalie Cools"
+  },
+  {
+    "objectID": "02_algemeneInfo.html#projectcode",
+    "href": "02_algemeneInfo.html#projectcode",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.1 Projectcode",
+    "text": "2.1 Projectcode\nDit is het unieke identificatienummer dat door het Agentschap Onroerend Erfgoed aan een fase van het vooronder- zoek (onderzoeksmethode) of aan een archeologische opgraving wordt toegekend. Het aardkundig onderzoek heeft ofwel een eigen projectcode zoals bij landschappelijk bodemonderzoek ofwel wordt het uitgevoerd onder de project- code van een andere fase van het onderzoek, bijvoorbeeld in geval van proefsleuven en proefputten of van een arche- ologische opgraving.\n\nVoorbeeld:\n2021H037"
+  },
+  {
+    "objectID": "02_algemeneInfo.html#interne-projectcode",
+    "href": "02_algemeneInfo.html#interne-projectcode",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.2 Interne projectcode",
+    "text": "2.2 Interne projectcode\nDe interne projectcode is de code die eventueel nog door de organisator van het aardkundig onderzoek wordt gegeven."
+  },
+  {
+    "objectID": "02_algemeneInfo.html#site-locatie",
+    "href": "02_algemeneInfo.html#site-locatie",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.3 Site locatie",
+    "text": "2.3 Site locatie\nDe site locatie vermeldt de locatie binnen administratieve entiteiten. Deze bevat minstens de gemeente en indien zinvol een straatnaam of een volledig adres."
+  },
+  {
+    "objectID": "02_algemeneInfo.html#type-onderzoek",
+    "href": "02_algemeneInfo.html#type-onderzoek",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.4 Type onderzoek",
+    "text": "2.4 Type onderzoek\nHet type onderzoek (doel) waarbinnen het (referentie)profiel of de boring wordt opgemaakt (Tabel 2.1).\n\n\nTabel 2.1: Categorieën voor het type onderzoek\n\n\nCategorie\n\n\n\n\nLandschappelijke profielputten\n\n\nProefsleuven en proefputten\n\n\nProefputten in functie van prehistorische artefactensites\n\n\nOpgraving/werfbegeleiding\n\n\nBureauonderzoek (controleboringen)\n\n\nLandschappelijk booronderzoek\n\n\nVerkennend archeologisch booronderzoek\n\n\nWaarderend archeologisch booronderzoek\n\n\nGeofysisch onderzoek\n\n\nAnder type (definieer)"
+  },
+  {
+    "objectID": "02_algemeneInfo.html#referentieprofielboringnummer",
+    "href": "02_algemeneInfo.html#referentieprofielboringnummer",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.5 (Referentie)profiel/boringnummer",
+    "text": "2.5 (Referentie)profiel/boringnummer\nHet uniek nummer van de boring en het unieke nummer waaronder het (referentie)profiel op het vlakplan is opge- nomen en dat binnen het project het (referentie)profiel/de boring identificeert."
+  },
+  {
+    "objectID": "02_algemeneInfo.html#het-herkenninsgsnummer",
+    "href": "02_algemeneInfo.html#het-herkenninsgsnummer",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.6 Het herkenninsgsnummer",
+    "text": "2.6 Het herkenninsgsnummer\nHet (de) herkenningsnummer(s) van de kaarten of plannen waarop het (referentie)profiel/de boring is (zijn) geregistreerd."
+  },
+  {
+    "objectID": "02_algemeneInfo.html#datum-bodemberschrijvingdatum-uitvoering-van-de-boring",
+    "href": "02_algemeneInfo.html#datum-bodemberschrijvingdatum-uitvoering-van-de-boring",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.7 Datum bodemberschrijving/datum uitvoering van de boring",
+    "text": "2.7 Datum bodemberschrijving/datum uitvoering van de boring\nDe datum van de beschrijving geeft aan hoe oud de gegevens zijn en in welk seizoen deze zijn opgenomen.\n\nVoorbeeld\n1954-05-31 (jaar; maand; dag)"
+  },
+  {
+    "objectID": "02_algemeneInfo.html#auteurs-en-organisatie",
+    "href": "02_algemeneInfo.html#auteurs-en-organisatie",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.8 Auteur(s) en organisatie",
+    "text": "2.8 Auteur(s) en organisatie\nDe voor- en achternaam van de aardkundige (n) of assistent-aardkundige(n) die de registratie van de boring uitvoer- de(n) of die de bodembeschrijving realiseerde(n).\nAls de persoon die de gegevens valideert, verschilt van het veldteam, moet zijn/haar naam ook worden vermeld. De organisatie waarvoor de auteur werkt op het moment van het veldwerk, wordt eveneens hier gerapporteerd."
+  },
+  {
+    "objectID": "02_algemeneInfo.html#x-en-y-coördinaten",
+    "href": "02_algemeneInfo.html#x-en-y-coördinaten",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.9 X en Y-coördinaten",
+    "text": "2.9 X en Y-coördinaten\nDe X- en Y-coördinaten van de boring of van het begin- en eindpunt van het (referentie)profiel of van de observatie worden met een GPS ingemeten.\nPlanimetrie in Lambert 72 coördinaten (EPSG:31370) en/of decimale graden met minstens 5 decimalen.\n\nVoorbeeld\nBL72 (EPSG:31370) X: 214082,00; Y: 186130,00\nN 5.28132, E 50.98186\n\nWaar gebruik van een GPS niet mogelijk is, kan je de locatie van een topografische kaart aflezen. Vermeld in dit geval de kaartreferenties. Dit kan ook een digitale kaart zijn.\n\nVoorbeeld\nNGI: 1:50.000, kaartblad 22/4 Gent.\n\nMaak gebruik van onderstaande categorieën (Tabel 2.2) om de manier waarop de x en y-coördinaten werden ingemeten, aan te duiden.\n\n\nTabel 2.2: Methodes (categorieën) voor de bepaling van de XY-coördinaten\n\n\nMethode\n\n\n\n\nXY_topografisch ingemeten\n\n\nXY_totaalstation\n\n\nXY_GPS (nk 10m)\n\n\nXY_GPS RTK-FLEPOS (nk 2-3cm)"
+  },
+  {
+    "objectID": "02_algemeneInfo.html#hoogteligging",
+    "href": "02_algemeneInfo.html#hoogteligging",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.10 Hoogteligging",
+    "text": "2.10 Hoogteligging\nDuid de hoogteligging van de bovenzijde ter hoogte van het begin- en eindpunt van het (referentie)profiel of van de boring aan in meter (ten opzichte van de Tweede Algemene Waterpassing) met één cijfer na de komma.\nVermeld volgens het coderingssysteem in Tabel 2.3 hoe de hoogte is gemeten: meting met GPS, bepaling in GIS, aflezing van een topografische kaart, ...\n\nVoorbeeld\n32,1 m, afgelezen van NGI topografisch kaart nr. 33/7-8 Borgloon, 1/25.000.\n\n\n\nTabel 2.3: Methodes (categorieën) voor de bepaling van de Z-coördinaat\n\n\nMethode\n\n\n\n\nZ_topografisch ingemeten\n\n\nZ_DHM_v1 100m*100m\n\n\nZ_DHM_v1 25m*25m\n\n\nZ_DHM_v1 5m*5m\n\n\nZ_DHM_v2\n\n\nZ_totaalstation\n\n\nZ_GPS – RTK FLEPOS"
+  },
+  {
+    "objectID": "02_algemeneInfo.html#de-weersomstandigheden",
+    "href": "02_algemeneInfo.html#de-weersomstandigheden",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.11 De weersomstandigheden",
+    "text": "2.11 De weersomstandigheden\nDe weersomstandigheden tijdens het beschrijven van het profiel of de boring.\n\n2.11.1 Weer\nVoor het beschrijven van het weer wordt gebruik gemaakt van de categorieën opgelijst in Tabel 2.4. De laatste categorie (geen invloed van weer en wind) is bedoeld voor onderzoeken bijvoorbeeld in een gebouw, in een kelder, onder een afdak, ...\n\n\nTabel 2.4: De categorieën om de weersomstandigheden te beschrijven\n\n\nCategorie\n\n\n\n\nZonnig/helder\n\n\nGedeeltelijk bewolkt\n\n\nBewolkt\n\n\nMist\n\n\nBuien (wisselvallig)\n\n\nRegen\n\n\nSmeltende sneeuw\n\n\nSneeuw\n\n\nGeen invloed van weer en wind\n\n\n\n\n\n\n2.11.2 Temperatuur\nNoteer of de temperatuur is gemeten of geschat en het tijdstip waarop dit gebeurd is. Bij een schatting worden klassen per 5°C toegepast.\n\nVoorbeeld\n5-10°C geschat. 8°C gemeten.\n\n\n\n2.11.3 Bijzondere weersomstandigheden\nNoteer bijzondere weersomstandigheden in de laatste dagen, weken, maanden voorafgaand aan de beschrijving, indien deze een invloed hebben op de site en de huidige bodemtoestand.\n\nVoorbeeld\nUitzonderlijk intense regen in de laatste weken waardoor de tijdelijke watertafel abnormaal hoog staat."
+  },
+  {
+    "objectID": "02_algemeneInfo.html#veldgegevens-specifiek-voor-een-booronderzoek",
+    "href": "02_algemeneInfo.html#veldgegevens-specifiek-voor-een-booronderzoek",
+    "title": "2  Algemene informatie over het onderzoek en de locatie/site",
+    "section": "2.12 Veldgegevens specifiek voor een booronderzoek",
+    "text": "2.12 Veldgegevens specifiek voor een booronderzoek\n\n2.12.1 De boorstrategie\nDe boorstrategie wordt vooraf bepaald in functie van de vraagstelling, de bodemtypes, de bodemhydrologie, de complexiteit van het projectgebied en de zichtbare landschapselementen. Mogelijke strategieën zijn:\n\nKennisopbouw: booronderzoek volgens voortschrijdend inzicht\nBooronderzoek met vaste boorafstand in transecten\nBooronderzoek met vast verspringend raster\n\n\n\n2.12.2 De boorafstand\nDit is enkel relevant voor boringen uitgevoerd in een transect of een rasterpatroon:\n\nAfstand (in m) tussen de boringen langs het transect/raster\nAfstand (in m) tussen de transecten of boorraaien\n\n\n\n2.12.3 De oriëntatie van de boorraaien\nEen boorraai is een reeks boringen die (min of meer) op een rechte lijn worden uitgevoerd, meestal met dezelfde afstand tussen de boringen. Noteer de oriëntatie(s) van de boorraaien in graden of volgens de windrichtingen. Vertrek vanuit de eerst uitgevoerde boorpunten richting de laatst uitgevoerde boorpunten. Bepaal de oriëntatie met een kompas of achteraf in GIS.\n\nVoorbeeld\nOriëntatie boorraai: 350°-170° of NNW-ZZO.\n\n\n\n2.12.4 De diameter van de grondboor\nDe diameter van de gebruikte boorkop in cm.\n\nVoorbeeld rapportering\nBoring gezet met combiboor, 7 cm diameter, vanaf 0 tot 220 cm diepte; guts van 5 cm diameter tussen 220 en 320 cm diepte; guts van 3 cm diameter tussen 320 en 400 cm diepte.\n\n\n\n2.12.5 De boortechniek en type grondboor\n\n2.12.5.1 De boortechniek\n\nManueel\nMechanisch\nCombinatie\n\n\n\n2.12.5.2 Manueel boortype\nVermeld het/de type(s) grondbo(o)r(en) dat/die je binnen eenzelfde booronderzoek gebruikt.\n\nVoorbeelden\nBoortypes geschikt voor bepaalde bodemtexturen:\n\nCombiboor\nZandboor\nGrofzandboor\nKleiboor\nGrindboor\n\nSpeciale boortypes:\n\nRiversideboor\nGutsboor\nVeenboor\nZuigerboor\nPulsboor\nSchroefboor\n\nAndere (voeg beschrijving toe)\n\n\n\n2.12.5.3 Mechanisch boortype\nVermeld het type mechanische boor dat je binnen eenzelfde booronderzoek gebruikt.\n\nVoorbeelden\n\nGeoprobe steekboring\n(Sonische) piston boring\n(Sonische) piston boring met Aqualock\nBegemannboring\nAndere (voeg beschrijving toe)\n\n\n\n\n\n2.12.6 Boordiepte\nNoteer de totale boordiepte in cm van elke boring. De bovenzijde (0 cm-diepte) van het profiel is het organische, minerale of antropogene oppervlak, uitgezonderd de strooisellaag (zie § 3.2.2, Figuur 6). Een asfaltwegdek of een tegel- vloer is dus een deel van de boring.\n\nVoorbeeld: rapportering van de veldgegevens specifiek voor een booronderzoek\nLandschappelijk booronderzoek met vaste boorafstand in transecten. Langs een transect is er elke 50 m een boring uitgevoerd, de afstand tussen de boorraaien met een NNW oriëntatie bedraagt 35 m. Elke 5de boring werd op referentieniveau beschreven. Tijdens het booronderzoek werd een combiboor, diameter 7 cm, tot het niveau van de grondwatertafel gebruikt. Vanaf dan werd er verder met een gutsboor van 3 cm diameter geboord.\n\n\n\n\nFiguur 2.1: Plaggenbodem (±70cm) met begraven dunne (±25cm) Podzol boven een glauconiethoudend kleiig substraat.  Site: Straalse Bossen Olmen / foto en copyright: Nathalie Cools"
+  }
+]

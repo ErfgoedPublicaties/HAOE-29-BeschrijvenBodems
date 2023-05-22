@@ -1,0 +1,260 @@
+# Algemene informatie over het onderzoek en de locatie/site
+
+## Projectcode
+
+Dit is het unieke identificatienummer dat door het Agentschap Onroerend Erfgoed aan een fase van het vooronder- zoek (onderzoeksmethode) of aan een archeologische opgraving wordt toegekend. Het aardkundig onderzoek heeft ofwel een eigen projectcode zoals bij landschappelijk bodemonderzoek ofwel wordt het uitgevoerd onder de project- code van een andere fase van het onderzoek, bijvoorbeeld in geval van proefsleuven en proefputten of van een arche- ologische opgraving.
+
+> Voorbeeld:
+>
+> 2021H037
+
+## Interne projectcode
+
+De interne projectcode is de code die eventueel nog door de organisator van het aardkundig onderzoek wordt gegeven.
+
+## Site locatie
+
+De site locatie vermeldt de locatie binnen administratieve entiteiten. Deze bevat minstens de gemeente en indien zinvol een straatnaam of een volledig adres.
+
+## Type onderzoek
+
+Het type onderzoek (doel) waarbinnen het (referentie)profiel of de boring wordt opgemaakt (@tbl-01).
+
+| Categorie
+|-----------------------------------------------------------|
+| Landschappelijke profielputten                            |
+| Proefsleuven en proefputten                               |
+| Proefputten in functie van prehistorische artefactensites |
+| Opgraving/werfbegeleiding                                 |
+| Bureauonderzoek (controleboringen)                        |
+| Landschappelijk booronderzoek                             |
+| Verkennend archeologisch booronderzoek                    |
+| Waarderend archeologisch booronderzoek                    |
+| Geofysisch onderzoek                                      |
+| Ander type (definieer)                                    |
+
+: Categorieën voor het type onderzoek {#tbl-01}
+
+## (Referentie)profiel/boringnummer
+
+Het uniek nummer van de boring en het unieke nummer waaronder het (referentie)profiel op het vlakplan is opge- nomen en dat binnen het project het (referentie)profiel/de boring identificeert.
+
+## Het herkenninsgsnummer
+
+Het (de) herkenningsnummer(s) van de kaarten of plannen waarop het (referentie)profiel/de boring is (zijn) geregistreerd.
+
+## Datum bodemberschrijving/datum uitvoering van de boring
+
+De datum van de beschrijving geeft aan hoe oud de gegevens zijn en in welk seizoen deze zijn opgenomen.
+
+> Voorbeeld
+>
+> 1954-05-31 (jaar; maand; dag)
+
+## Auteur(s) en organisatie
+
+De voor- en achternaam van de aardkundige (n) of assistent-aardkundige(n) die de registratie van de boring uitvoer- de(n) of die de bodembeschrijving realiseerde(n).
+
+Als de persoon die de gegevens valideert, verschilt van het veldteam, moet zijn/haar naam ook worden vermeld. De organisatie waarvoor de auteur werkt op het moment van het veldwerk, wordt eveneens hier gerapporteerd.
+
+## X en Y-coördinaten
+
+De X- en Y-coördinaten van de boring of van het begin- en eindpunt van het (referentie)profiel of van de observatie worden met een GPS ingemeten.
+
+Planimetrie in Lambert 72 coördinaten (EPSG:31370) en/of decimale graden met minstens 5 decimalen.
+
+> Voorbeeld
+>
+> BL72 (EPSG:31370) X: 214082,00; Y: 186130,00
+>
+> N 5.28132, E 50.98186
+
+Waar gebruik van een GPS niet mogelijk is, kan je de locatie van een topografische kaart aflezen. Vermeld in dit geval de kaartreferenties. Dit kan ook een digitale kaart zijn.
+
+> Voorbeeld
+>
+> NGI: 1:50.000, kaartblad 22/4 Gent.
+
+Maak gebruik van onderstaande categorieën (@tbl-02) om de manier waarop de x en y-coördinaten werden ingemeten, aan te duiden.
+
+| Methode                      |
+|------------------------------|
+| XY_topografisch ingemeten    |
+| XY_totaalstation             |
+| XY_GPS (nk 10m)              |
+| XY_GPS RTK-FLEPOS (nk 2-3cm) |
+
+: Methodes (categorieën) voor de bepaling van de XY-coördinaten {#tbl-02}
+
+## Hoogteligging
+
+Duid de hoogteligging van de bovenzijde ter hoogte van het begin- en eindpunt van het (referentie)profiel of van de boring aan in meter (ten opzichte van de Tweede Algemene Waterpassing) met één cijfer na de komma.
+
+Vermeld volgens het coderingssysteem in @tbl-03 hoe de hoogte is gemeten: meting met GPS, bepaling in GIS, aflezing van een topografische kaart, \...
+
+> Voorbeeld
+>
+> 32,1 m, afgelezen van NGI topografisch kaart nr. 33/7-8 Borgloon, 1/25.000.
+
+
+| Methode |
+|--------------------------|
+| Z_topografisch ingemeten |
+| Z_DHM_v1 100m\*100m      |
+| Z_DHM_v1 25m\*25m        |
+| Z_DHM_v1 5m\*5m          |
+| Z_DHM_v2                 |
+| Z_totaalstation          |
+| Z_GPS -- RTK FLEPOS      |
+
+: Methodes (categorieën) voor de bepaling van de Z-coördinaat {#tbl-03}
+
+## De weersomstandigheden
+
+De weersomstandigheden tijdens het beschrijven van het profiel of de boring.
+
+### Weer
+
+Voor het beschrijven van het weer wordt gebruik gemaakt van de categorieën opgelijst in @tbl-04. De laatste categorie (geen invloed van weer en wind) is bedoeld voor onderzoeken bijvoorbeeld in een gebouw, in een kelder, onder een afdak, \...
+
+| Categorie                     |
+|-------------------------------|
+| Zonnig/helder                 |
+| Gedeeltelijk bewolkt          |
+| Bewolkt                       |
+| Mist                          |
+| Buien (wisselvallig)          |
+| Regen                         |
+| Smeltende sneeuw              |
+| Sneeuw                        |
+| Geen invloed van weer en wind |
+
+: De categorieën om de weersomstandigheden te beschrijven {#tbl-04}
+
+### Temperatuur
+
+Noteer of de temperatuur is gemeten of geschat en het tijdstip waarop dit gebeurd is. Bij een schatting worden klassen per 5°C toegepast.
+
+> Voorbeeld
+>
+> 5-10°C geschat. 8°C gemeten.
+
+### Bijzondere weersomstandigheden
+
+Noteer bijzondere weersomstandigheden in de laatste dagen, weken, maanden voorafgaand aan de beschrijving, indien deze een invloed hebben op de site en de huidige bodemtoestand.
+
+> Voorbeeld
+>
+> Uitzonderlijk intense regen in de laatste weken waardoor de tijdelijke watertafel abnormaal hoog staat.
+
+## Veldgegevens specifiek voor een booronderzoek
+
+### De boorstrategie
+
+De boorstrategie wordt vooraf bepaald in functie van de vraagstelling, de bodemtypes, de bodemhydrologie, de complexiteit van het projectgebied en de zichtbare landschapselementen. Mogelijke strategieën zijn:
+
+-   Kennisopbouw: booronderzoek volgens voortschrijdend inzicht
+
+-   Booronderzoek met vaste boorafstand in transecten
+
+-   Booronderzoek met vast verspringend raster
+
+### De boorafstand
+
+Dit is enkel relevant voor boringen uitgevoerd in een transect of een rasterpatroon:
+
+-   Afstand (in m) tussen de boringen langs het transect/raster
+
+-   Afstand (in m) tussen de transecten of boorraaien
+
+### De oriëntatie van de boorraaien
+
+Een boorraai is een reeks boringen die (min of meer) op een rechte lijn worden uitgevoerd, meestal met dezelfde afstand tussen de boringen. Noteer de oriëntatie(s) van de boorraaien in graden of volgens de windrichtingen. Vertrek vanuit de eerst uitgevoerde boorpunten richting de laatst uitgevoerde boorpunten. Bepaal de oriëntatie met een kompas of achteraf in GIS.
+
+> Voorbeeld
+>
+> Oriëntatie boorraai: 350°-170° of NNW-ZZO.
+
+### De diameter van de grondboor
+
+De diameter van de gebruikte boorkop in cm.
+
+> Voorbeeld rapportering
+>
+> Boring gezet met combiboor, 7 cm diameter, vanaf 0 tot 220 cm diepte; guts van 5 cm diameter tussen 220 en 320 cm diepte; guts van 3 cm diameter tussen 320 en 400 cm diepte.
+
+### De boortechniek en type grondboor
+
+#### De boortechniek
+
+-   Manueel
+
+-   Mechanisch
+
+-   Combinatie
+
+#### Manueel boortype
+
+Vermeld het/de type(s) grondbo(o)r(en) dat/die je binnen eenzelfde booronderzoek gebruikt.
+
+> Voorbeelden
+>
+> Boortypes geschikt voor bepaalde bodemtexturen:
+>
+> -   Combiboor
+>
+> -   Zandboor
+>
+> -   Grofzandboor
+>
+> -   Kleiboor
+>
+> -   Grindboor
+>
+> Speciale boortypes:
+>
+> -   Riversideboor
+>
+> -   Gutsboor
+>
+> -   Veenboor
+>
+> -   Zuigerboor
+>
+> -   Pulsboor
+>
+> -   Schroefboor
+>
+> Andere (voeg beschrijving toe)
+
+#### Mechanisch boortype
+
+Vermeld het type mechanische boor dat je binnen eenzelfde booronderzoek gebruikt.
+
+> Voorbeelden
+>
+> -   Geoprobe steekboring
+>
+> -   (Sonische) piston boring
+>
+> -   (Sonische) piston boring met Aqualock
+>
+> -   Begemannboring
+>
+> -   Andere (voeg beschrijving toe)
+
+### Boordiepte
+
+Noteer de totale boordiepte in cm van elke boring. De bovenzijde (0 cm-diepte) van het profiel is het organische, minerale of antropogene oppervlak, uitgezonderd de strooisellaag (zie § 3.2.2, Figuur 6). Een asfaltwegdek of een tegel- vloer is dus een deel van de boring.
+
+> Voorbeeld: rapportering van de veldgegevens specifiek voor een booronderzoek
+>
+> Landschappelijk booronderzoek met vaste boorafstand in transecten. Langs een transect is er elke 50 m een boring uitgevoerd, de afstand tussen de boorraaien met een NNW oriëntatie bedraagt 35 m. Elke 5de boring werd op referentieniveau beschreven. Tijdens het booronderzoek werd een combiboor, diameter 7 cm, tot het niveau van de grondwatertafel gebruikt. Vanaf dan werd er verder met een gutsboor van 3 cm diameter geboord.
+
+:::{#fig-01_01}
+
+![](figuren/image4.jpeg)
+
+Plaggenbodem (±70cm) met begraven dunne (±25cm) Podzol boven een glauconiethoudend kleiig substraat. <br>
+Site: Straalse Bossen Olmen / foto en copyright: Nathalie Cools
+:::

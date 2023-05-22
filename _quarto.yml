@@ -1,0 +1,98 @@
+project:
+  type: book
+  output-dir: docs
+
+execute:
+  echo: false
+
+lang: nl
+
+book:
+  title: "Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen"
+  subtitle: "Handleiding Onroerend Erfgoed"
+  author:
+    - name: Jari Mikkelsen
+      orcid: 0000-0002-4189-8879
+      affiliations: "Raakvlak - Onroerend Erfgoed Brugge en Ommeland"
+
+    - name: Carole Ampe
+      # orcid: 0000-0002-7516-1189
+      affiliations: "Vlaamse Landmaatschappij"
+
+    - name: Nathalie Cools
+      orcid: 0000-0002-7059-2318
+      affiliations: "Instituut voor Natuur-en Bosonderzoek (INBO)"
+
+    - name: Yannick Devos
+      orcid: 0000-0002-5315-1916
+      affiliations: "Vrije Universiteit Brussel (VUB)"
+
+    - name: Stefaan Dondeyne
+      orcid: 0000-0002-7422-7860
+      affiliations: "Vrije Universiteit Brussel (VUB)"
+
+    - name: Katrien Oorts
+      orcid: 0000-0003-1997-4473
+      affiliations: "Vlaamse Overheid - Departement Omgeving"
+
+    - name: Marnix Pieters
+      orcid: 0000-0002-8069-1045
+      affiliations: "agentschap Onroerend Erfgoed"
+
+    - name: Roger Langohr
+      # orcid: 0000-0003-1997-4473
+      affiliations: "Professor emeritus Universiteit Gent"
+
+  publisher: "agentschap Onroerend Erfgoed"
+  date: today
+  cover-image: figuren/cover.jpg
+  # collapse-level: 3
+  sharing: [twitter, facebook, linkedin]
+  twitter-card:
+    image: "/docs/figuren/cover.jpg"
+  repo-url: https://github.com/hanecakr/handleidingBeschrijvingBodems/
+  repo-actions: [edit]
+  sidebar:
+    logo: "/figuren/qr_bodems.png"
+  #   title: "Hoofdstukken"
+  # google-analytics:
+  #  tracking-id: "G-WFNTWBH9Q4"
+  chapters:
+    - index.qmd
+    - updates.qmd
+    - 01_inleiding.qmd
+    - 02_algemeneInfo.qmd
+    # - 03_landschappelijk.qmd
+    # - 04_prospectie.qmd
+    # - 05_waardering.qmd
+    # - 06_fasering.qmd
+    # - 07_besluit.qmd
+    # - literatuur.qmd
+
+title-block-banner: "#914f9a"
+title-block-banner-color: white
+
+crossref:
+  fig-title: Figuur
+  fig-prefix: fig.
+
+language:
+  toc-title-document: "Op deze pagina"
+  search-no-results-text: "Geen resultaat"
+  repo-action-links-edit: "Bewerk deze pagina"
+  title-block-author-plural: "auteurs"
+  title-block-published: "laatste update"
+  title-block-affiliation-plural: "affiliatie"
+
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - mycss.css
+      dark:
+        - slate
+        - mycss.css
+    cover-image: figuren/cover.jpg
+    toc-depth: 4
+    link-external-newwindow: true
