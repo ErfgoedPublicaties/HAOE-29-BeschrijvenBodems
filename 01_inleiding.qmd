@@ -76,9 +76,7 @@ De veldhandleiding is een verkorte versie van een uitgebreide bodemhandleiding e
 
 **Hoofdstuk 5**, tot slot, geeft extra info omtrent de classificatie van het bodemprofiel op basis van de profielbeschrij- ving of boring.
 
-:::{#fig-inleiding}
 ![](figuren/image3.jpeg)
 
-Bodem ontwikkeld in loess met waterstagnatie op ± 40-50cm diepte. De bleke verticale tongen vormen een polygonale structuur en gaan door de fragipan. <br>
+>Bodem ontwikkeld in loess met waterstagnatie op ± 40-50cm diepte. De bleke verticale tongen vormen een polygonale structuur en gaan door de fragipan. <br>
 Site: Zoniënwoud Brussel / foto en copyright: Roger Langohr
-:::

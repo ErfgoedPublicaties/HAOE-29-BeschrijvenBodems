@@ -1,0 +1,8 @@
+# CGP5
+
+Overzicht van de te beschrijven bodemkenmerken op basis- en referentieniveau volgens de Code van Goede praktijk versie 5.
+
+
+![](figuren/legende_bijlage.png)
+
+[Download overzicht als pdf](https://github.com/hanecakr/handleidingBeschrijvenBodems/blob/main/bijlage_CGP5.pdf)

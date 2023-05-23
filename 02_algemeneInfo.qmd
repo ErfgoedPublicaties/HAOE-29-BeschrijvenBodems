@@ -33,7 +33,7 @@ Het type onderzoek (doel) waarbinnen het (referentie)profiel of de boring wordt 
 | Geofysisch onderzoek                                      |
 | Ander type (definieer)                                    |
 
-: Categorieën voor het type onderzoek {#tbl-01}
+: Categorieën voor het type onderzoek. {#tbl-01}
 
 ## (Referentie)profiel/boringnummer
 
@@ -84,7 +84,7 @@ Maak gebruik van onderstaande categorieën (@tbl-02) om de manier waarop de x en
 | XY_GPS (nk 10m)              |
 | XY_GPS RTK-FLEPOS (nk 2-3cm) |
 
-: Methodes (categorieën) voor de bepaling van de XY-coördinaten {#tbl-02}
+: Methodes (categorieën) voor de bepaling van de XY-coördinaten. {#tbl-02}
 
 ## Hoogteligging
 
@@ -107,7 +107,7 @@ Vermeld volgens het coderingssysteem in @tbl-03 hoe de hoogte is gemeten: meting
 | Z_totaalstation          |
 | Z_GPS -- RTK FLEPOS      |
 
-: Methodes (categorieën) voor de bepaling van de Z-coördinaat {#tbl-03}
+: Methodes (categorieën) voor de bepaling van de Z-coördinaat. {#tbl-03}
 
 ## De weersomstandigheden
 
@@ -129,7 +129,7 @@ Voor het beschrijven van het weer wordt gebruik gemaakt van de categorieën opge
 | Sneeuw                        |
 | Geen invloed van weer en wind |
 
-: De categorieën om de weersomstandigheden te beschrijven {#tbl-04}
+: De categorieën om de weersomstandigheden te beschrijven. {#tbl-04}
 
 ### Temperatuur
 
@@ -251,10 +251,3 @@ Noteer de totale boordiepte in cm van elke boring. De bovenzijde (0 cm-diepte) v
 >
 > Landschappelijk booronderzoek met vaste boorafstand in transecten. Langs een transect is er elke 50 m een boring uitgevoerd, de afstand tussen de boorraaien met een NNW oriëntatie bedraagt 35 m. Elke 5de boring werd op referentieniveau beschreven. Tijdens het booronderzoek werd een combiboor, diameter 7 cm, tot het niveau van de grondwatertafel gebruikt. Vanaf dan werd er verder met een gutsboor van 3 cm diameter geboord.
 
-:::{#fig-01_01}
-
-![](figuren/image4.jpeg)
-
-Plaggenbodem (±70cm) met begraven dunne (±25cm) Podzol boven een glauconiethoudend kleiig substraat. <br>
-Site: Straalse Bossen Olmen / foto en copyright: Nathalie Cools
-:::

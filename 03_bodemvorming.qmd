@@ -1,4 +1,4 @@
-# Bodemvormende factoren
+# Bodemvormende factoren {#bodemvorming}
 
 De informatie omtrent moedermateriaal, substraat, geomorfologie, bodemhydrologie, hedendaags landgebruik en bodembedekking, antropogene invloed op het landschap en erosie en sedimentatie (3.1 tot 3.7) die hier gevraagd wordt, is bedoeld om de beknopte tekstuele beschrijving van het bodemprofiel inclusief interpretatie te kunnen opstellen. De bodemvormende factoren worden bepaald aan de hand van een bureauonderzoek in combinatie met eigen veldobservaties.
 
@@ -48,18 +48,18 @@ Maak onderscheid op basis van de schaal:
 
 #### Hellingspositie
 
-De positie van de bodemobservatie op de helling is belangrijk. Niet alleen heeft de helling invloed op de externe en interne drainage, maar ook op het risico voor erosie en sedimentatie (colluvium). Waar mogelijk wordt de landschaps- positie van het projectgebied best door kaarten en transecten geïllustreerd (zie voorbeelden, @fig-03-01, @fig-03-02 en @fig-03-03).
+De positie van de bodemobservatie op de helling is belangrijk. Niet alleen heeft de helling invloed op de externe en interne drainage, maar ook op het risico voor erosie en sedimentatie (colluvium). Waar mogelijk wordt de landschapspositie van het projectgebied best door kaarten en transecten geïllustreerd (zie voorbeelden, @fig-03-01, @fig-03-02 en @fig-03-03).
 
 ::: {#fig-03-01}
 ![](figuren/image5.jpeg)
 
-Voorbeeld van het macroreliëf: de topografie en hydrografie rond het projectgebied (Bron data: hydrografische netwerk, en topografie afgeleid van 1 m resolutie LiDAR data, DOV.Vlaanderen; kaart: Stefaan Dondeyne)
+Voorbeeld van het macroreliëf: de topografie en hydrografie rond het projectgebied (Bron data: hydrografische netwerk, en topografie afgeleid van 1 m resolutie LiDAR data, DOV.Vlaanderen; kaart: Stefaan Dondeyne).
 :::
 
 ::: {#fig-03-02}
 ![](figuren/image6.jpeg)
 
-Voorbeeld van het mesoreliëf rond het projectgebied. De rode lijn duidt de locatie van de boorraai aan (Bron data: hydrografische netwerk, en topografie afgeleid van 1 m resolutie LiDAR data, DOV.Vlaanderen; kaart: Stefaan Dondeyne)
+Voorbeeld van het mesoreliëf rond het projectgebied. De rode lijn duidt de locatie van de boorraai aan (Bron data: hydrografische netwerk, en topografie afgeleid van 1 m resolutie LiDAR data, DOV.Vlaanderen; kaart: Stefaan Dondeyne).
 :::
 
 ::: {#fig-03-03}
@@ -72,7 +72,7 @@ De boorraai in functie van de topografie en het microreliëf. De verticale overd
 
 Dikwijls is er een verband met de erosie/sedimentatie processen veroorzaakt door water (@tbl-03-01).
 
-| Categorië | Omschrijving                                                           |
+| Categorie | Omschrijving                                                           |
 |---------------|--------------------------------------------------------------------|
 | Vlak      | Geen of weinig erosie (horizontaal)                                    |
 | Convex    | Erosiegevoelig                                                         |
@@ -80,12 +80,12 @@ Dikwijls is er een verband met de erosie/sedimentatie processen veroorzaakt door
 | Concaaf   | Zone van sedimentatie (colluvium)                                      |
 | Complex   | Onregelmatig                                                           |
 
-: De categorieën om de hellingsvorm te beschrijven {#tbl-03-01}
+: De categorieën om de hellingsvorm te beschrijven. {#tbl-03-01}
 
 ::: {#fig-03-04}
 ![](figuren/image08.png)
 
-Voorbeelden van hellingsvormen. Bepaal eerst de hellingsvorm langs de hoogtelijnen (horizontale rij), vervolgens loodrecht op de hoogtelijnen (verticale kolom). De tekening onderaan links is een voorbeeld van een concaaf-convexe hellingspositie bepaald ten opzichte van de bodemobservatie (boring, profiel) (door Sylvia Mazereel naar Wysocki et al. 2000)
+Voorbeelden van hellingsvormen. Bepaal eerst de hellingsvorm langs de hoogtelijnen (horizontale rij), vervolgens loodrecht op de hoogtelijnen (verticale kolom). De tekening onderaan links is een voorbeeld van een concaaf-convexe hellingspositie bepaald ten opzichte van de bodemobservatie (boring, profiel) (door Sylvia Mazereel naar Wysocki et al. 2000).
 :::
 
 #### Hellingsoriëntatie - expositie
@@ -114,7 +114,7 @@ Het extern waterregime ter hoogte van de aardkundige observatie wordt onder ande
 | Noch toevoer noch afvoer van water |
 | Water afvoer                       |
 
-: Categorieën voor het extern waterregime te omschrijven {#tbl-03-02}
+: Categorieën voor het extern waterregime te omschrijven. {#tbl-03-02}
 
 ### Actuele watertafel
 
@@ -253,7 +253,7 @@ Beschrijf erosie en sedimentatie volgens het type: watererosie, winderosie, (bod
 >
 > -   Massabeweging (grondverschuivingen etc.)
 
-### ACTIVITEIT
+### Activiteit
 
 Beschrijf de periode van erosie/sedimentatie (@tbl-03-03).
 
@@ -266,17 +266,5 @@ Beschrijf de periode van erosie/sedimentatie (@tbl-03-03).
 | Actief in een recent verleden (laatste 100 jaar ongeveer) |
 | Tot op vandaag actief                                     |
 
-: De categorieën voor de periode van erosie/sedimentatie te omschrijven {#tbl-03-03}
-
-
-
-  
-  
-::: {#fig-03-06}
-![](figuren/image19.jpeg)
-
-Schorrebodem met reductiehorizont. De sedimentatie bovenaan is nog actief. 0-50 cm: gestratificeerde horizont, licht gevlekt, fluctuerende grondwatertafel. 50-85 cm: niet gestratificeerde horizont, sterk gevlekt, fluctuerende grondwatertafel. 85+ cm: blauwgrijze reductiehorizont: permanente grondwatertafel. Vanaf deze diepte blijven de organische stoffen bewaard. <br>
-Site: Schorre van de Ouden Doel, Beveren / foto en copyright: Jari Hinsch Mikkelsen
-:::
-
+: De categorieën voor de periode van erosie/sedimentatie te omschrijven. {#tbl-03-03}
 

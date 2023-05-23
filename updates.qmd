@@ -5,7 +5,7 @@ In het overzicht hier onder worden de belangrijkste wijzigingen ten opzichte van
 <br/>
 <br/>
 
-#### 0.0.1 (22-05-2023)  
+#### 0.0.1 (23-05-2023)  
 
 - ***Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen*** online te raadplegen via <https://hanecakr.github.io/handleidingBeschrijvenBodems/>, zoals gepubliceerd door Mikkelsen *et al.* in 2023.
 

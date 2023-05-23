@@ -1,4 +1,219 @@
----
-title: "Untitled"
----
+# Classificatie van het bodemprofiel
+
+## Bodemtypes volgens de Belgische bodemclassificatie
+
+Bij bodemprospectie op archeologische sites wordt de bodemserie volgens de Belgische bodemclassificatie (bv. wAba0) aan de hand van eigen veldobservaties en interpretaties bepaald. Achteraf kan dit vergeleken worden met de gegevens van de Belgische Bodemkaart (ontsloten als 'Digitale bodemkaart van het Vlaams Gewest'). Hierbij wordt het morfogenetische classificatiesysteem toegepast, ook voor de polders (in analogie met de Scheldepolders).
+
+De **bodemserie** vormt de kern van het bodemtype. Ze is opgebouwd uit drie symbolen: de textuurklasse (zie 3.8) van de bovenste 20 cm (in praktijk eerder 30-35 cm gelijk aan de ploeglaag), de drainageklasse en de profielontwikkeling.
+
+Het **bodemtype** bestaat uit de bodemserie aangevuld met een mogelijk substraat, fase, variante van het moedermateriaal en/of variante van de profielontwikkeling. De volledige legende is beschreven in Van Ranst & Sys (2000) of in de Verklarende tekst van de bodemkaart, te consulteren op de website DOV (<https://www.dov.vlaanderen.be/>). In het algemeen is op de bodemkaart steeds het bodemtype aangegeven bv. wAba0; wanneer er bv **Aba** staat naast **Aba1**, staat **Aba** impliciet voor **Aba0**, en zo kan **Zbm**, impliciet voor **Zbm(g)** staan, in contrast met **Zbm(b)**. Eigen observaties zullen doorgaans meer details in de bodemvariabiliteit registreren en kunnen daardoor afwijken van de bodemkaarteenheid waar het meest voorkomende bodemtype voor een bepaald kaartvlak werd bepaald (zie voorbeeld in @fig-05-01 hieronder). De geobserveerde variatie tijdens de bodemkartering is terug te vinden in de 'Basiskaarten bodemkartering 1:5000' en de 'Boorpunten bodemkartering 1:5000' die per bodemkaartblad als jpg ontsloten zijn in de Databank Ondergrond Vlaanderen.
+
+Bepaal op een archeologische site steeds de bodemserie (textuur, drainage, profielontwikkeling) in de minst door menselijke activiteit verstoorde zone, dus niet in een opgevulde afvalkuil maar ergens waar het oorspronkelijk bodemprofiel het best bewaard is.
+
+::: {#fig-05-01}
+![](figuren/fig-05-01.png)
+
+Opbouw van een bodemtype volgens de Belgische bodemclassificatie (met uitzondering van de kuststreek).
+:::
+
+### De textuurklasse
+
+Het eerste symbool van de bodemserie, de **textuurklasse** (aard van het moedermateriaal, grondsoort), wordt onderverdeeld in bodems op:
+
+|                        |                                                                                                             |
+|------------------------|-------------------------------------------------------------------------------------------------------------|
+| U, E, A, L, P, S, Z    | Minerale textuurklassen. Zie § [4.7](#textuur) en @fig-04-07 en @fig-04-08.                                 |
+| G                      | Lemige (L, A) of kleiige (E) bodemtexturen met meer dan 5% vol. stenen (niet voor textuurklassen Z, S en U).|
+
+
+
+Daarnaast worden de volgende symbolen gebruikt voor bodemeenheden waarvan de bodems meestal niet nader onderzocht werden.
+
+|            	|                                                              	|
+|------------	|---------------------------------------------------------------	|
+| V          	| Venig materiaal, bevat een oppervlakkige laag van minstens 40cm dikte met een gehalte van minstens 30% organisch materiaal. Het symbool V krijgt (meestal) geen tweede of derde symbool maar vormt op zich een bodemserie.   	|
+| B, M, N, X 	| Goed gedefinieerde landschappelijke eenheden maar verder niet gespecifieerd (ze krijgen geen tweede of derde symbool maar vormen op zich een bodemserie)<br>B: Bronzones<br>M: Mergelgronden<br>N: Krijtgronden<br>X: Duinen 	|
+
+
+#### De drainageklassen en het bodemvochtregime
+
+Het tweede symbool staat voor de **drainageklasse**.
+
+In het symbool van het bodemtype op de bodemkaart van België staat de drainageklasse in tweede positie, na het korrelgrootte- of textuurklassesymbool (@tbl-05-02 en @tbl-05-03, @fig-05-02 en @fig-05-03). Let op, door veranderingen aan het bodemvochtregime kan de drainageklasse vandaag anders zijn dan wat bepaald werd tijdens de bodemkartering.
+
+
+
+|    <br>Drainagesymbool |    <br>Definitie                        |    <br>Natuurlijke drainering |         Diepte   | (in cm)*        |
+|------------------------|-----------------------------------------|-------------------------------|-----------------:|:----------------|
+|                        |                                         |                               |    **roest**     |   **reductie**  |
+|    <br>.a.             |    <br>Zeer droog                       |    <br>Veel te sterk          |    <br>>120      |    <br>-        |
+|    <br>.b.             |    <br>Droog                            |    <br>Te sterk               |    <br>90-120    |    <br>-        |
+|    <br>.c.             |    <br>Matig droog                      |    <br>Iets te sterk          |    <br>60-90     |    <br>-        |
+|    <br>.d.             |    <br>Matig nat                        |    <br>Matig                  |    <br>40-60     |    <br>-        |
+|    <br>.h.             |    <br>Nat                              |    <br>Tamelijk slecht        |    <br>20-40     |    <br>-        |
+|    <br>.i.             |    <br>Zeer nat                         |    <br>Slecht                 |    <br>0-20      |    <br>-        |
+|    <br>.e.             |    <br>Nat, met reductiehorizont        |    <br>Tamelijk slecht        |    <br>20-40     |    <br>>80      |
+|    <br>.f.             |    <br>Zeer nat met reductiehorizont    |    <br>Slecht                 |    <br>0-20      |    <br>40-80    |
+|    <br>.g.             |    <br>Uiterst nat                      |    <br>Zeer slecht            |    <br>0         |    <br><40      |
+
+: Natuurlijke draineringsklassen en hun kenmerken voor zandige gronden (textuurklassen Z, S, P, zie @fig-05-02) volgens de Bodemkaart van België (data volgens Ameryckx _et al._, 1995). {#tbl-05-02}
+
+\* Diepte vanaf waar roest- en reductieverschijnselen beginnen
+
+::: {#fig-05-02}
+![](figuren/image79.png)
+
+Illustratie van de drainageklassen voor zandige texturen (Z, S en P) (door Sylvia Mazereel volgens Petit & Heyninck 2019)
+:::
+
+
+
+| Drainagesymbool | Definitie                                        | Natuurlijke drainering    |          Diepte  | (in cm)*        |
+|-----------------|--------------------------------------------------|---------------------------|-----------------:|:----------------|
+|                 |                                                  |                           | **roest**        | **reductie**    |
+|    <br>.a.      |    <br>-                                         |    <br>-                  |    <br>-         |    <br>-        |
+|    <br>.b.      |    <br>Niet gleyig                               |    <br>Goed               |    <br>>120      |    <br>-        |
+|    <br>.c.      |    <br>Zwak gleyig                               |    <br>Matig goed         |    <br>80-120    |    <br>-        |
+|    <br>.d.      |    <br>Matig gleyig                              |    <br>Onvoldoende        |    <br>50-80     |    <br>-        |
+|    <br>.h.      |    <br>Sterk gleyig                              |    <br>Tamelijk slecht    |    <br>30-50     |    <br>-        |
+|    <br>.i.      |    <br>Zeer sterk gleyig                         |    <br>Slecht             |    <br>0-30      |    <br>-        |
+|    <br>.e.      |    <br>Sterk gleyig   met reductiehorizont       |    <br>Tamelijk slecht    |    <br>30-50     |    <br>>80      |
+|    <br>.f.      |    <br>Zeer sterk gleyig met reductiehorizont    |    <br>Slecht             |    <br>0-30      |    <br>40-80    |
+|    <br>.g.      |    <br>Gereduceerd                               |    <br>Zeer slecht        |    <br>0         |    <br><40      |
+
+: Natuurlijke draineringsklassen en hun kenmerken voor lemig-kleiige gronden (textuurklassen L, A, E, U; zie @fig-04-07), volgens de Bodemkaart van België (data volgens Ameryckx et al., 1995) {#tbl-05-03}
+
+
+\* Diepte waarom roest- en reductieverschijnselen beginnen
+
+<br/>
+<br/>
+
+::: {#fig-05-03}
+![](figuren/image80.png)
+
+Illustratie van de drainageklassen voor lemige (L, A) en kleiige (E, U)) bodems. De klassen gelden ook voor stenige bodems (G) (door Sylvia Mazereel volgens Petit & Heyninck, 2019). Drainageklasse 'a' komt in praktijk niet voor bij de fijne textuurklassen.
+:::
+
+
+### De profielontwikkeling
+
+Het derde symbool van de bodemserie, de **profielontwikkeling**, wordt aan de hand van @tbl-05-04 bepaald.
+
+|    <br>Symbool            |    <br>Formele definitie                                                      |    <br>Omschrijving en connotatie                                                                                                                                                                                                |   |   |
+|---------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+|    <br>..a                |    <br>Gronden met textuur B-horizont                                         |    <br>Bodems met een   duidelijke, continue kleiaanrijkingshorizont                                                                                                                                                           |   |   |
+|    <br> <br>   <br>..b    |    <br>Gronden met structuur en/of weinig duidelijke kleur B-horizont         |    <br>Bodems waar de bodemvorming beperkt is tot het ontwikkelen van bodemkundige structuur en/of verkleuring (ook gebruikt voor   pre-holocene alluviale afzetting)                                                          |   |   |
+|    <br> <br>   <br>..c    |    <br>Gronden met sterk gevlekte of met verbrokkelde textuur   B-horizont    |    <br>Bodems met een duidelijke kleiaanrijkingshorizont doorkruist van een netwerkpatroon van bleke vlekken   en/of gebleekte tongen                                                                                          |   |   |
+|    <br>..e                |    <br>Gronden met zwartachtige A-horizont                                    |    <br>Bodems met dikke   (40-60 cm), zwarte,   humusrijke oppervlakte horizont die vaak kalkhoudend is in de ondergrond                                                                                                       |   |   |
+|    <br> <br>   <br>..f    |    <br>Gronden met weinig duidelijke humus en/of ijzer   B-horizont           |    <br>Bodems met een geelachtige of licht bruine uitlogingshorizont boven een weinig uitgesproken   of onderbroken kleiaanrijkingshorizont,   vaak met oxido-reductie vlekken, of met een zwak ontwikkelde Podzol horizont    |   |   |
+|    <br>..g                |    <br>Gronden met duidelijke humus en/of ijzer B-horizont                    |    <br>Bodems met een duidelijke Podzol   horizont                                                                                                                                                                               |   |   |
+|    <br> <br>   <br>..h    |    <br>Gronden met verbrokkelde humus en/ of ijzer B-horizont                 |    <br>Bodems met een dikke (40-60   cm) antropogene humusrijke oppervlakte horizont met   hieronder (vaak) restanten van een Podzol   horizont                                                                                  |   |   |
+|    <br>..m                |    <br>Gronden met diepe   antropogene humus A-horizont                     |    <br>Dikke antropogene ( > of = 60 cm) humusrijke A horizont aangebracht door eeuwen oude landbouwpraktijk                                                                                                                     |   |   |
+|    <br> <br>   <br>..p    |    <br>Gronden zonder   profielontwikkeling                                   |    <br>Zandige bodems zonder profielontwikkeling, en lemige of kleiige bodems   van Holoceen alluviale, fluviatiele en colluviale afzettingen                                                                                |   |   |
+|    <br>..x                |    <br>Gronden met niet bepaalde profielontwikkeling                        |    <br>Ondiepe leem- of zandleemdeklagen en ontsluitingen van Tertiaire klei                                                                                                                                                     |   |   |
+
+: De symbolen voor de profielontwikkeling en hun definitie (voor meer uitleg zie Van Ranst & Sys 2000). {#tbl-05-04}
+
+
+Een aantal gronden werden bij de Belgische bodemkartering niet gekarteerd en afgebakend als kunstmatige gronden. Het is de bedoeling om hier een eigen classificatie te doen volgens bovenstaande richtlijnen. Projectzones aangeduid op de bodemkaart van België als OB (bebouwde zone) dienen altijd door de aardkundige beschreven te worden.
+
+
+### Beknopte bodembeschrijving
+
+Geef voor elk bodemprofiel een beknopte tekstuele beschrijving van het volledige bodemprofiel, eventueel ook al een eerste interpretatie van de bodem in relatie met het archeologisch onderzoek. Baseer je hiervoor ook op de bodemvormende factoren ([hoofdstuk 3](#bodemvorming)) en besteed extra aandacht aan uitzonderlijke bodemkenmerken die, al dan niet, het resultaat van antropogene activiteiten zijn. Duid duidelijk aan of bodemkenmerken/horizonten aanwezig of niet aanwezig zijn.
+
+
+#### Bijzondere bodemkenmerken belangrijk voor de interpretatie
+
+Hieronder vallen alle belangrijke bodemkenmerken die kunnen bijdragen tot het interpreteren van de site, van de bodemevolutie. Het is ook belangrijk om je af te vragen welke kenmerken afwezig zijn.
+
+Voorbeelden van belangrijke observaties die zichtbaar zijn in de bodem:
+
+-   Bewerkingssporen
+
+-   Betredingssporen (voetsporen, karrensporen, holle wegen...)
+
+-   Boomvallen
+
+-   Faunasporen (dassen, konijnen, mollen, mieren, kevers, regenwormen...)
+
+-   Cryoturbatiesporen
+
+-   Sporen van erosie
+
+-   Belangrijke elementen die afwezig zijn! Bijvoorbeeld: het ontbreken van een E-horizont waar die verwacht wordt zoals boven een kleiaanrijkingshorizont (Bt), of boven een Podzol horizont (Bh, Bs, Bhs)
+
+## Fotografische opnames
+
+Een schaallat of lintmeter is vereist op alle foto's. Vermijd het gebruik van veldmateriaal als schaal. Voorkom gedeeltelijke schaduw, gedeeltelijke zonneschijn op de bodemwand. Gebruik eventueel een uniform, donkergekleurde paraplu of parasol om het profiel te beschaduwen. Gebruik bij onvoldoende licht een statief en vermijd, indien mogelijk, het gebruik van een cameraflits (@fig-05-04 zelfde profiel met en zonder flits).
+
+::: {#fig-05-04}
+![](figuren/image90.jpeg)
+
+Twee foto's van hetzelfde bodemprofiel op hetzelfde moment. Links met gebruik van de cameraflits, rechts zonder de flits (copyright en foto's: Jari Mikkelsen & Nathalie Cools).
+:::
+
+De fotografische databank bevat minstens de volgende afbeeldingen:
+
+-   Het bodemprofiel opgekuist: wanden zijn schoon geschraapt, wortels afgeknipt\... maar zonder aanduiding van de aardkundige eenheden
+
+-   Het bodemprofiel nadat de horizontgrenzen en de nummers van de aardkundige eenheden op de profielwand zijn ingekrast bijvoorbeeld met een mes of truweel
+
+-   Het profiel met indicaties van de uit te voeren of uitgevoerde bemonstering (@fig-05-05 en @fig-05-06)
+
+-   Fotografische macro-opnames van relevante details van de aardkundige eenheden
+
+-   Een fotografische opname van de omgeving van het aangelegde referentieprofiel, ter illustratie van de geomorfologie en vegetatie van de profiellocatie (@fig-05-07 en @fig-05-08).
+
+::: {#fig-05-05}
+
+![](figuren/image91.jpeg)
+
+Voorbeeld van een bodemprofiel met aanduiding van de horizontgrenzen en staalnamelocaties, eerst aangeduid op de bodemwand (links) en op de archeologische tekening (rechts). De aanduidingen met een kruis in een cirkel zijn geplande staalnamelocaties voor bodemanalysen. Staalnames voor OSL-dateringen zijn aangeduid met een kleinere cirkel en een verticale streep. De staalname voor pollen of micromorfologie is op de bodemwand ingekrast in de vorm van een rechthoek. De cirkels aangeduid met rood werd finaal geselecteerd voor verder laboanalysen
+(copyright en foto: Jari Mikkelsen).
+:::
+
+::: {#fig-05-06}
+
+![](figuren/image92.jpeg)
+
+Voorbeeld van het uitsnijden van stalen voor micromorfologie (boven). Onderaan-links: de oriëntatie wordt altijd op het staal zelf aangeduid. Onderaan-rechts: de stalen zijn klaar om los gemaakt te worden (copyright Agentschap Onroerend Erfgoed, foto's: Kris Vandevorst).
+:::
+
+
+::: {#fig-05-07}
+
+![](figuren/image93.jpeg)
+
+Voorbeelden van omgevingsfoto's rondom een bodemobservatie. Bij het uitgraven van een bodemprofiel wordt het humusrijke oppervlaktemateriaal apart gehouden van het humusarme materiaal van de diepere horizonten. Vooraan de profielwand wordt geen aarde gelegd en preferentieel wordt de grond hier ook niet vertrappeld. Dit om de bodemfoto zo representatief mogelijk te maken
+(copyright en foto's: Jari Mikkelsen & Nathalie Cools).
+:::
+
+::: {#fig-05-08}
+![](figuren/image94.jpeg)
+
+Voorbeeld van omgevingsfoto's in de context van het aanleggen van proefsleuven in het kader van archeologisch onderzoek (copyright en foto's: Stefaan Dondeyne)
+:::
+
+De fotografische databank kan met volgende afbeeldingen worden uitgebreid:
+
+-   Het profiel met naast elkaar de zichtbaar gemaakte structuur en een schoongemaakt oppervlak (@fig-05-09)
+
+-   Horizontale secties op verschillende dieptes
+
+-   Close-up van sporen van menselijke activiteiten (@fig-05-10)
+
+
+::: {#fig-05-09}
+![](figuren/image95.jpeg)
+
+Voorbeeld van bodemprofiel met zichtbare structuur (links) en een schoongemaakt oppervlak (rechts) (copyright en foto: Jari Mikkelsen).
+:::
+
+::: {#fig-05-10}
+![](figuren/image96.jpeg)
+
+Voorbeeld van een detailfoto van antropogene sporen (spadesteken) in het bodemprofiel (copyright en foto: Carole Ampe).
+:::
 

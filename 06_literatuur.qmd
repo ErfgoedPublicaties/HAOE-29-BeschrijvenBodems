@@ -1,0 +1,23 @@
+# Referenties
+
+Ameryckx, J.B., Verheye, W., Vermeire, R. 1995. Bodemkunde: bodemvorming; bodemeigenschappen; de bodems van België; bodembehoud en degradatie; bodembeleid en bodempolitiek. Gent: Wettelijk Depot: D/1995/Willy Ameryckx, uitgevers.
+
+Dalrymple, J.B., Blong, R.J., & Conacher, A.J. 1968. An hypothetical nine-unit landsurface model. In: Zeitschrift für Geomorphologie. 12, 60-76.
+
+Databank Ondergrond Vlaanderen - Digitale bodemkaart van het Vlaams Gewest. [https://www.dov.vlaanderen.be](https://www.dov.vlaanderen.be)
+
+Delbecque, N., Dondeyne, S., Gelaude, F., Mouazen, A.M., Vermeir, P., & Verdoodt, A. 2022. Urban soil properties distinguished by parent material, land use, time since urbanization, and pre-urban geomorphology. Geoderma 413.
+[https://doi.org/10.1016/j.geoderma.2022.115719](https://doi.org/10.1016/j.geoderma.2022.115719)
+
+FAO, 2006. Guidelines for soil description (4th edition). Rome, Food and Agriculture Organization of the United Nations.
+
+Petit, S. & Heyninck, C., 2019. Formation pédologie ANF. Dossier de terrain. Forêt Nature: Le Gouvernement Du Grand-Duché de Luxembourg. 25p.
+
+Schoeneberger, P.J., Wysocki, D.A. & Benham, E.C. (eds). 2012. Field book for describing and sampling soils, version 3.0. USDA Natural Resources Conservation Service, National Soil Survey Center, Lincoln, Nebraska.
+
+Soil Survey Staff, 2014. Keys to Soil Taxonomy, 12th ed. USDA: United States Department of Agriculture. Natural Resources Conservation Service. 360p.
+
+Van Ranst E. & Sys, C. 2000. Eenduidige legende voor de digitale bodemkaart van Vlaanderen (Schaal 1:20000). Gent, Laboratorium voor Bodemkunde. [download als .pdf](https://www.milieuinfo.be/dms/d/d/workspace/SpacesStore/417aadac-822a-4401-965e-ea9a4119f0a6/eenduidige%20legende_bodemkaart.pdf)
+
+Wysocki, D.A., Schoeneberger, P.J., & LaGarry, H.E. 2000. Geomorphology of soil landscapes. In M.E. Sumner (ed.) Handbook of soil science. CRC Press, Boca Raton, Florida.
+72

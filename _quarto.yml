@@ -64,18 +64,19 @@ book:
     - 02_algemeneInfo.qmd
     - 03_bodemvorming.qmd
     - 04_bodembeschrijving.qmd
-    # - 05_waardering.qmd
-    # - 06_fasering.qmd
-    # - 07_besluit.qmd
-    # - literatuur.qmd
+    - 05_classificatie.qmd
+    - 06_literatuur.qmd
+  appendices:
+    - 99_CGP5.qmd
+
 
 title-block-banner: "#914f9a"
 title-block-banner-color: white
 
 crossref:
-  fig-title: figuur
+  fig-title: Figuur
   fig-prefix: fig.
-  tbl-title: tabel
+  tbl-title: Tabel
   tbl-prefix: tabel
 
 language:
