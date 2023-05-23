@@ -50,8 +50,10 @@ book:
   sharing: [twitter, facebook, linkedin]
   twitter-card:
     image: "/docs/figuren/cover.jpg"
-  repo-url: https://github.com/hanecakr/handleidingBeschrijvingBodems/
-  repo-actions: [edit]
+  repo-url: https://github.com/hanecakr/handleidingBeschrijvenBodems/
+  repo-actions: [edit, issue]
+  site-url: https://hanecakr.github.io/handleidingBeschrijvenBodems/
+
   sidebar:
     logo: "/figuren/qr_bodems.png"
   #   title: "Hoofdstukken"
@@ -60,14 +62,19 @@ book:
   chapters:
     - index.qmd
     - updates.qmd
-    - 01_inleiding.qmd
-    - 02_algemeneInfo.qmd
-    - 03_bodemvorming.qmd
-    - 04_bodembeschrijving.qmd
-    - 05_classificatie.qmd
-    - 06_literatuur.qmd
-  appendices:
-    - 99_CGP5.qmd
+    - part: "Veldhandleiding"
+      chapters:
+      - 01_inleiding.qmd
+      - 02_algemeneInfo.qmd
+      - 03_bodemvorming.qmd
+      - 04_bodembeschrijving.qmd
+      - 05_classificatie.qmd
+    - part: "Bronnen"
+      chapters:
+      - 06_literatuur.qmd
+    - part: "Bijlage"
+      chapters:
+      - 99_CGP5.qmd
 
 
 title-block-banner: "#914f9a"

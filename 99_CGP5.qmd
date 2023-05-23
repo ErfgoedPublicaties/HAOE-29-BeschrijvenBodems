@@ -1,4 +1,4 @@
-# CGP5
+# CGP5 {.unnumbered}
 
 Overzicht van de te beschrijven bodemkenmerken op basis- en referentieniveau volgens de Code van Goede praktijk versie 5.
 
