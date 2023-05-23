@@ -1,12 +1,11 @@
-# Welkom! {.unnumbered}
+# Woord vooraf {.unnumbered}
 
-## Woord vooraf
 
 Welkom bij de online versie van de **Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen**. Deze handleiding werd in 2023 gepubliceerd door het **agentschap Onroerend Erfgoed** en is als pdf te downloaden op de [**Open Archives Repository (OAR)**](https://doi.org/10.55465/TJAE3292).
 
 Met deze online versie willen we kleine aanpassingen aan de originele uitgave, veranderende inzichten en nieuwe toepassingen binnen het beschrijven van bodems bij archeologisch onderzoek - op basis van recente, wetenschappelijke ontwikkelingen - sneller ontsluiten. De basis van deze handleiding blijft de originele uitgave, maar hier kan je steeds de meest actuele versie raadplegen.
 
-## Citeren
+### Citeren
 
 Gelieve te citeren als: <br/>
 

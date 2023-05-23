@@ -1,0 +1,1307 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Beschrijving van bodemhorizonten en -lagen
+
+Een aantal te beschrijven kenmerken behoren niet tot de minimale set
+gevraagd in de Code van Goede Praktijk maar kunnen wel belangrijk zijn
+voor het item 'andere observaties (mineralen, chemische, biologische en
+menselijke processen)' zowel in de profielbeschrijvingen als bij de
+beschrijvingen van boringen.
+
+## Oppervlaktestenen
+
+Beschrijf de aanwezigheid van gesteenten aan de oppervlakte, al dan niet
+gedeeltelijk begraven, in termen van percentage oppervlaktedekking,
+afmetingen, vorm, soort gesteente, graad van verwering etc. Zijn de
+stenen *in situ* of door de mens tot op de site gebracht?
+
+Gebruik de volgende indeling (@tbl-04-01) en schat de twee-dimensionale
+oppervlakte ingenomen door stenen in met behulp van @fig-04-14.
+
+| Categorie          |
+|--------------------|
+| Geen (0%)          |
+| Zeer weinig (0-2%) |
+| Weinig (2-5%)      |
+| Vaak (5-15%)       |
+| Veel (15-40%)      |
+| Zeer veel (\\40%)  |
+
+: De categorieën voor de concentratie aan oppervlaktestenen {#tbl-04-01}
+
+## Horizontgrens
+
+### Het nummer van de horizont (aardkundige eenheid)
+
+Geef elke aardkundige eenheid een uniek en vast nummer (1, 2, 3 enz.) na
+het afbakenen van de horizontgrenzen.
+
+### De diepte ten opziochte van het maaiveld
+
+Meet de diepte(s) van de boven- en ondergrens van elke aardkundige
+eenheid in cm vanaf het oppervlak van de minerale bodem (figuur 6). In
+geval van een schuine begrenzing wordt de hoogste en laagste waarde
+gegeven. De meeste horizontgrenzen zijn overgangszones in plaats van
+scherpe grenzen. *Let op:* noteer (ja/nee) of de onderkant van de
+diepste horizont bereikt is.
+
+Is er een strooisellaag aanwezig, duid dan de begrenzing van de
+organische horizonten met negatieve cijfers aan. Deze werkwijze is o.a.
+zo gekozen omdat de dikte van de strooisellagen (Oi-, Oe-,
+Oa-horizonten) met de tijd (snel) kan veranderen (zie § [4.6](#benaming) voor de
+uitleg omtrent de horizontsymbolen).
+
+::: {#fig-04-01}
+![](figuren/image21.png)
+
+Voorbeelden van hoe de horizontdiepte in het veld wordt vastgelegd. Deze
+diepten zijn belangrijk voor de profielbeschrijving en voor de
+bemonstering. A) minerale bodem; B) bodem met twee verschillende
+strooisellagen; C) veenontwikkeling bovenop minerale bodem; D)
+strooisellaag bovenop veen dat op zijn beurt rust op een minerale bodem.
+Profiel B kent een schuine einddiepte, hier wordt de hoogste en de
+laagste waarde aangegeven.
+:::
+
+### Horizontbegrenzing - duidelijkheid {#horizontbegrenzing}
+
+De duidelijkheid van de ondergrens van een horizont of laag verwijst
+naar de dikte van de grenszone tussen aanliggende aardkundige eenheden
+(tabel 9). Meet de dikte van de overgangszone tussen de twee aanliggende
+hori- zonten. Dit is de afstand tussen het punt waar kenmerken van de
+onderste horizont beginnen en het punt waar de
+
+kenmerken van de bovenste horizont stoppen of anders gesteld de afstand
+tussen het punt waarin je zeker nog in de bovenliggende horizont bent en
+het punt waarin je zeker al in de onderliggende horizont bent. In het
+geval van een recente ploeglaag bijvoorbeeld is dat vaak maar 1 of 2 mm.
+
++---------------+---------------+---------------+-----------------+
+| Categorieën   | Dikte         | Subcategorie  | Dikte           |
+|               | grensovergang |               | grensovergang   |
++===============+===============+===============+=================+
+| Abrupt        | 0-2 cm        | Messcherp     | 0--0,3 cm       |
++---------------+---------------+---------------+-----------------+
+|               |               | Zeer scherp   | 0,3--0,5 cm     |
++---------------+---------------+---------------+-----------------+
+|               |               | Scherp        | 0,5--2,0 cm     |
++---------------+---------------+---------------+-----------------+
+| Duidelijk     | 2-5 cm        | \-            | \-              |
++---------------+---------------+---------------+-----------------+
+| Geleidelijk   | 5-15 cm       | \-            | \-              |
++---------------+---------------+---------------+-----------------+
+| Diffuus       | \\15 cm       | \-            | \-              |
++---------------+---------------+---------------+-----------------+
+
+: De categorieën van horizontbegrenzing en de dikte van deze begrenzing
+{#tbl-04-02}
+
+Voor de categorie 'Abrupt' kan ook gekozen worden om de categorie verder
+te specifiëren volgens de subcategorieën (Messcherp, Zeer Scherp of
+Scherp).
+
+Bij onderzoek waar de duidelijkheid van de horizontgrens belangrijk is,
+wordt de exacte dikte van de grensovergang (in cm) best genoteerd.
+
+> Voorbeeld
+>
+> 0.1 cm grens; 1-3 cm grens
+
+### Horizonttopografie
+
+De horizonttopografie geeft de vorm van de grens aan (@tbl-04-03;
+@fig-04-02).
+
+| Categorie    | Omschrijving                       |
+|--------------|------------------------------------|
+| Recht        | Bijna vlak verlopend               |
+| Golvend      | Instulpingen minder diep dan breed |
+| Onregelmatig | Instulpingen dieper dan breed      |
+| Onderbroken  | Discontinu                         |
+
+: De categorieën voor de horizonttopografie te omschrijven {#tbl-04-03}
+
+::: {#fig-04-02}
+![](figuren/image27.jpeg)
+
+De meest voorkomende horizont-topografieën. A) Recht, B) Golvend, C)
+Onregelmatig; D) Onderbroken of discontinu (Aangepast naar Schoeneberger
+et al. 2012).
+:::
+
+## Bodemvochtigheid
+
+Duid per aardkundige eenheid de actuele bodemvochtigheid aan. Aangezien
+de kleur van een bodem varieert naarge- lang de vochttoestand, is het
+belangrijk de conditie waarin de kleur werd bepaald, te noteren.
+Hieronder vind je een handige veldtest om de vochtigheidsgraad te
+bepalen (@tbl-04-04).
+
+| Categorie     | Bij bevochtigen wordt de bodem | Bij wrijven wordt de bodemkleur  | Andere kenmerken                           |
+|---------------|--------------------------------|----------------------------------|--------------------------------------------|
+| Droog         | Donker                         | Bijna niet lichter              |                  |
+| Licht vochtig | Iets donkerder                 | Duidelijk lichter               | Geen glanzend bodemoppervlakte |
+| Vochtig       | Geen verandering               | Duidelijk lichter               | Zwak glanzend bodemoppervlakte |
+| Nat           | Geen verandering               | Geen verandering                | Glanzend bodemoppervlakte; waterverzadigd |
+
+: Categorieën om de bodemvochtigheid te bepalen en te omschrijven. {#tbl-04-04}
+
+## Bodemkleur {#bodemkleur}
+
+Kleur is één van de belangrijkste bodemkenmerken voor aardkundig
+onderzoek. Het is het eerste kenmerk dat je ziet en het is het
+voornaamste kenmerk waarop je steunt om de aardkundige eenheden te
+onderscheiden. Men onder- scheidt bijvoorbeeld een "zwarte", "bruine" of
+"grijze" laag of horizont.
+
+Bepaal de kleur volgens het Munsell kleursysteem (code en benaming),
+samen met de vochtigheidstoestand van de bodem (zie § [4.3](#bodemvochtigheid)). De Munsell
+code bevat drie componenten:
+
+-   Hue: dominante spectrale kleur of tint (houdt verband met de
+    golflengte van het licht -- _cfr._ regenboog);
+
+-   Value: graad van donker (1) tot licht (8) of van zwart tot wit
+    (hoeveelheid gereflecteerd licht);
+
+-   Chroma: zuiverheid en sterkte (intensiteit) van spectrale kleur van
+    bleek (1) tot helder (8).
+
+> Voorbeelden
+>
+> +-------------+-------------+-------------+-------------+-------------+
+> | Kleurkaart: | 10YR        | GLEY 2[^1]  | 10Y --      | WHITE[^3]   |
+> |             |             |             | 5GY[^2]     |             |
+> +=============+=============+=============+=============+=============+
+> | Code        | 10YR 5/6    | 10BG 4/1    | 5GY 4/4     | 7.5YR 9.5/2 |
+> +-------------+-------------+-------------+-------------+-------------+
+> | Hue         | 10YR        | 10BG        | 5GY         | 7.5YR       |
+> |             | (geelrood)  | (blauwgroen)| (groengeel) | (geelrood)  |
+> +-------------+-------------+-------------+-------------+-------------+
+> | Value       | 5           | 4           | 4           | 9.5         |
+> +-------------+-------------+-------------+-------------+-------------+
+> | Chroma      | 6           | 1           | 4           | 2           |
+> +-------------+-------------+-------------+-------------+-------------+
+> | Naam        | Geelachtig  | Donker      | Olijfgroen  | Licht       |
+> |             | bruin       | groenachtig |             | geelachtig  |
+> |             |             | grijs       |             | roze        |
+> +-------------+-------------+-------------+-------------+-------------+
+>
+> Voorbeelden rapportering kleur:
+>
+> Grijsachtig bruin 10YR 5/2 (vochtig) en lichtbruin grijs 10YR 6/2
+> (droog),
+>
+> Donker grijsbruin tot grijsbruin 2.5Y 4,5/2 (vochtig) en lichtbruin
+> grijs 2,5Y 6/2 (droog).
+
+[^1]: Speciale kleurkaart voor kleuren van
+    zuurstofarm, sterk gereduceerd bodemmateriaal (gleykleuren)
+
+[^2]: Speciale kleurkaart voor glauconiethoudende bodems
+
+[^3]: Speciale kleurkaart voor kalk, silica, pleister, gips, zout etc.
+
+## Kleurvlekken
+
+Vlekken kunnen allerlei vormen aannemen en zijn zones met een kleur die
+verschillend is van de dominante kleur van de bodemmatrix. Ze geven
+meestal aan dat de bodem afwisselend natte (reducerende) en droge
+(oxiderende) omstandigheden ondergaat. Andere vlekken kunnen het
+gevolg zijn van ongelijkmatige verwering van het moedermateriaal, klei
+(+ ijzer) migratie en accumulatie, selectieve afbraak door
+schimmels/bacteriën van organisch materiaal enz.
+
+Beschrijf de vlekken in termen van kleur, aantal en contrast. Verder kan
+ook de grootte (in cm) en de duidelijkheid van de begrenzing (zie §
+[4.2.3](#horizontbegrenzing)) van de vlekken worden
+bepaald. Bovendien kan de vorm, de positie of elk ander kenmerk worden
+beschreven.
+
+### Kleur
+
+Bepaal de kleuren met de Munsell Soil Color Charts (zie §
+[4.4](#bodemkleur)).
+
+Als de kleur verandert na blootstelling aan de lucht (door oxidatie),
+bepaal dan de kleur zowel voor als na de oxidatie.
+
+### Aantal
+
+Schat het percentage ingenomen door vlekken per aardkundige eenheid (zie
+@fig-04-14) en verdeel onder in categorieën (tbl-04-05). Wanneer vlekken
+zo overheersen dat een onderscheid tussen matrix- en vlekkenkleur niet
+meer mogelijk is, beschrijf dan de overheersende kleuren (als
+bodemmatrixkleuren, zie § [4.4](#bodemkleur)).
+
+| Categorie          |
+|--------------------|
+| Zeer weinig (0-2%) |
+| Weinig (2-5%)      |
+| Vaak (5-15%)       |
+| Veel (15-40%)      |
+| Zeer Veel (40%)    |
+
+: Categorieën voor het schatten van het aantal vlekken {#tbl-04-05}
+
+### Contrast
+
+Beschrijf het kleurcontrast tussen vlekken en de matrix (@tbl-04-06).
+
++---------------+------------------------------------------------------+
+| Categorie     | Omschrijving                                         |
++===============+======================================================+
+| Onduidelijjk  | De vlekken zijn enkel van dichtbij zichtbaar.        |
+|               | Bodemkleuren van zowel de matrix als van de vlekken  |
+|               | verschillen weinig van elkaar.                       |
++---------------+------------------------------------------------------+
+| Duidelijk     | De vlekken zijn gemakkelijk te zien. Hue, chroma of  |
+|               | value van de matrix is eenvoudig te onderscheiden    |
+|               | van de vlekken.                                      |
++---------------+------------------------------------------------------+
+| Uitgesproken  | De vlekken zijn opvallend. Hue, chroma en value,     |
+|               | alleen of in combinatie, liggen verschillende        |
+|               | eenheden uit elkaar                                  |
++---------------+------------------------------------------------------+
+
+: De categorieën voor het omschrijven van de kleurcontrast van vlekken
+{#tbl-04-06}
+
+## De benaming van de aardkundige eenheid (horizontsymbolen)
+
+### Hoofdhorizonten en -lagen (mastersymbolen) {#benaming}
+
+De hoofdletters H, O, A, E, B, C, L, R en T vertegenwoordigen de
+hoofdhorizonten of -lagen (@tbl-04-07).
+
++-------------+-------------------------------------------------------+
+| Symbool     | Beschrijving                                          |
++=============+=======================================================+
+| H           | Organische horizont gevormd onder langdurig           |
+|             | waterverzadigde omstandigheden (veen). De H-horizon-  |
+|             | ten worden naargelang de graad van ontbinding verder  |
+|             | ingedeeld:                                            |
+|             |                                                       |
+|             | Hi (*fibric*), vrijwel intacte plantenresten, He      |
+|             | (*mesic*), gedeeltelijk verteerd,                     |
+|             |                                                       |
+|             | Ha (*sapric*), doorgedreven stadium van ontbinding.   |
++-------------+-------------------------------------------------------+
+| O           | Organische horizont gevormd door accumulatie van      |
+|             | plantenresten die op het bodemoppervlak zijn          |
+|             | gevallen, maar niet in waterverzadigde                |
+|             | omstandigheden.                                       |
+|             |                                                       |
+|             | Oi: bestaat uit niet tot weinig verteerd organisch    |
+|             | materiaal, vooral strooisel zoals bladeren/naalden,   |
+|             | twijgen, houtachtige materialen.                      |
+|             |                                                       |
+|             | Oe: bestaat uit matig verteerd, vooral gefragmenteerd |
+|             | organisch materiaal waarvan de originele structuur    |
+|             | nog te herkennen is.                                  |
+|             |                                                       |
+|             | Oa: bestaat uit vooral sterk verteerd organisch       |
+|             | materiaal, humus; de originele structuur van het      |
+|             | organisch materiaal is niet langer herkenbaar.        |
++-------------+-------------------------------------------------------+
+| A           | Minerale horizont aangerijkt met gehumificeerd        |
+|             | organisch materiaal, gevormd aan of nabij het         |
+|             | oppervlak.                                            |
++-------------+-------------------------------------------------------+
+| E           | Minerale horizont waaruit klei en/of ijzer en/of      |
+|             | aluminium zijn uitgeloogd (eluviatie); heeft meestal  |
+|             | een lichtere kleur en/of lichtere textuur dan de      |
+|             | boven- en onderliggende horizonten.                   |
++-------------+-------------------------------------------------------+
+| B           | Minerale horizont meestal onder een A- of E-horizont, |
+|             | waarin bodemprocessen hebben plaatsgegrepen; de       |
+|             | originele stratificatie of sedimentstructuur (i.e.    |
+|             | geologische structuur) is ten minste grotendeels      |
+|             | verdwenen. De belangrijkste bodemprocessen bij het    |
+|             | transformeren van een C-horizont in een B-horizont    |
+|             | zijn:                                                 |
+|             |                                                       |
+|             | Kleurontwikkeling (verbruining),                      |
+|             | Structuurontwikkeling,                                |
+|             |                                                       |
+|             | Ontkalking (uitloging van carbonaten),                |
+|             |                                                       |
+|             | Kleivorming door verwering van primaire               |
+|             | bodemmineralen, Illuviatie (aanrijking) van ijzer,    |
+|             | aluminium, klei, humus.                               |
++-------------+-------------------------------------------------------+
+| C           | Het moedermateriaal: een ongeconsolideerde minerale   |
+|             | laag, niet of zeer weinig beïnvloed door bo-          |
+|             | demvormende processen, dus waar de geologische        |
+|             | structuur domineert (eigenschappen kenmerkend voor de |
+|             | H-, O-, A-, E- of B-horizonten ontbreken).            |
++-------------+-------------------------------------------------------+
+| L           | Limnisch materiaal: sedimenten afgezet onder water,   |
+|             | bestaande uit zowel organisch als mineraal            |
+|             | bodemmateriaal. Limnisch materiaal is bijvoorbeeld    |
+|             | afgezet door het neerslaan van organismen die in het  |
+|             | water leefden zoals algen, diatomeeën, ... of is      |
+|             | afkomstig van onderwatervegetatie die later bewerkt   |
+|             | werd door de waterfauna. Sedimentaire afzettingen van |
+|             | veen horen hierbij maar niet de afzettingen die       |
+|             | bestaan uit *in situ* plantengroei (gebruik hiervoor  |
+|             | de H).                                                |
++-------------+-------------------------------------------------------+
+| R           | Weinig verweerd, of onverweerd, hard gesteente        |
++-------------+-------------------------------------------------------+
+| T           | Technisch harde materialen zoals asfalt, beton,       |
+|             | funderingen? etc.                                     |
++-------------+-------------------------------------------------------+
+
+: De benaming van de hoofdhorizonten of -lagen. {#tbl-04-07}
+
+#### Overgangshorizonten
+
+Er zijn twee soorten overgangshorizonten (@fig-04-03): horizonten met de
+eigenschappen van de boven- en de onderliggende horizont die
+geleidelijk in elkaar overgaan, en horizonten met eigenschappen van de
+twee horizonten maar van elkaar gescheiden (zowel horizontaal naast
+elkaar of elkaar snel afwisselend verticaal).
+
+> Voorbeeld:
+>
+> Op elkaar ontwikkeld: AB, BC,AE,... Gescheiden: A/B, B/C, C/R, E/B,
+> E/Bt,...
+
+::: {#fig-04-03}
+![](figuren/image28.png)
+
+Bodem met geleidelijke overgang tussen de A en de E horizont (links), en
+een bodem met veel dunne E/Bt bandjes (rechts).
+:::
+
+### Bijkomende kenmerken van een horizont/laag (subordinate symbolen)
+
+Bijkomende kenmerken binnen de hoofdhorizonten en lagen zijn gebaseerd
+op kenmerken die in het veld waarneembaar zijn. Kleine letters worden
+gebruikt als achtervoegsels om specifieke soorten hoofdhorizonten en
+lagen en andere kenmerken aan te duiden. De lijst met symbolen en termen
+wordt weergegeven in @tbl-04-08:
+
++---------------+------------------------------+---------------------+
+| Symbool       | Beschrijving                 | Gebruik             |
++===============+==============================+=====================+
+| a             | Sterk verteerd organisch     | H- en O-horizonten  |
+|               | materiaal                    |                     |
++---------------+------------------------------+---------------------+
+| b             | Begraven horizont of laag    |                     |
++---------------+------------------------------+---------------------+
+| β             | Een biologisch zeer actieve  | Niet voor           |
+|               | horizont                     | A-horizonten        |
++---------------+------------------------------+---------------------+
+| c             | Concreties en/of nodules     |                     |
++---------------+------------------------------+---------------------+
+| d             | Compacte horizont,           |                     |
+|               | wortelbeperkend              |                     |
++---------------+------------------------------+---------------------+
+| e             | Gedeeltelijk verteerd        | H- en O-horizonten  |
+|               | organisch materiaal          |                     |
++---------------+------------------------------+---------------------+
+| g             | Oxido-reductie vlekken (Fe   |                     |
+|               | en/of Mn) veroorzaakt door   |                     |
+|               | een tijdelijk stagnerend     |                     |
+|               | watertafel                   |                     |
++---------------+------------------------------+---------------------+
+| h             | Accumulatie van organische   |                     |
+|               | stof                         |                     |
++---------------+------------------------------+---------------------+
+| i             | Licht verteerd organisch     | H- en O-horizonten  |
+|               | materiaal                    |                     |
++---------------+------------------------------+---------------------+
+| j             | Accumulatie van jarosiet     |                     |
++---------------+------------------------------+---------------------+
+| k             | Accumulatie van secundaire   |                     |
+|               | kalk                         |                     |
++---------------+------------------------------+---------------------+
+| l             | Oido-reductie vlekken (Fe    |                     |
+|               | en/of Mn) veroorzaakt door   |                     |
+|               | een fluctuerende grondwater  |                     |
+|               | tafel                        |                     |
++---------------+------------------------------+---------------------+
+| m             | Gecementeerde horizont       | Vooral in           |
+|               |                              | B-horizont van      |
+|               |                              | Podzol              |
++---------------+------------------------------+---------------------+
+| m             | Moeraskalk, mergel           | L-horizont          |
++---------------+------------------------------+---------------------+
+| p             | Bewerkte horizont            | A-horizont          |
+|               | (ploeglaag...)               | (oppervlak of       |
+|               |                              | begraven)           |
++---------------+------------------------------+---------------------+
+| q             | Accumulatie van silicium     |                     |
++---------------+------------------------------+---------------------+
+| r             | Sterke reductie (permanente  |                     |
+|               | grondwatertafel)             |                     |
++---------------+------------------------------+---------------------+
+| s             | Illuviale accumulatie van    |                     |
+|               | sesquioxiden                 |                     |
++---------------+------------------------------+---------------------+
+| t             | Aanwezigheid van klei        | B-horizont          |
+|               | illuviatie                   |                     |
++---------------+------------------------------+---------------------+
+| u             | Aanwezigheid van antropogeen |                     |
+|               | materiaal                    |                     |
++---------------+------------------------------+---------------------+
+| w             | Kleur en/of structuur wegens | B-horizont          |
+|               | bodemgenese                  |                     |
++---------------+------------------------------+---------------------+
+| x             | Fragipan kenmerken (niet     | o.a. Btx-horizont   |
+|               | noodzakelijk een Bt)         |                     |
++---------------+------------------------------+---------------------+
+| y             | Accumulatie van gips         |                     |
++---------------+------------------------------+---------------------+
+| z             | Accumulatie van zouten die   |                     |
+|               | meer oplosbaar zijn dan gips |                     |
++---------------+------------------------------+---------------------+
+| zo            | Zoögenetisch (van dierlijke  | Enkel voor H-, O-   |
+|               | oorsprong: meso of           | en A-horizonten Te  |
+|               | macrofauna)                  | plaatsen voor het   |
+|               |                              | hoofdsymbool        |
++---------------+------------------------------+---------------------+
+| noz           | Niet zoögenetisch (geen      | Enkel voor H-, O-   |
+|               | dierlijke activiteit, wel    | en A-horizonten Te  |
+|               | aanwezigheid van schimmels). | plaatsen voor het   |
+|               |                              | hoofdsymbool        |
++---------------+------------------------------+---------------------+
+| \@            | Sporen van cryoturbatie      |                     |
++---------------+------------------------------+---------------------+
+| \^            | Antropogeen (mechanisch)     | te plaatsen voor    |
+|               | aangevoerd materiaal         | het hoofdsymbool    |
++---------------+------------------------------+---------------------+
+
+: Bijkomende kenmerken voor de hoofdhorizonten en lagen {#tbl-04-08}
+
+### Vertikale onderverdelingen
+
+Een horizont of laag kunnen we verder onderverdelen en duiden we aan met
+een combinatie van lettersymbolen gevolgd door een cijfer. De cijfers
+worden gebruikt om horizonten met dezelfde symbolen van elkaar te kunnen
+scheiden.
+
+> Voorbeeld:
+>
+> -   C1-C2-C3
+> -   C1-C2-Cg1-Cg2
+> -   C-Cg1-Cg2
+> -   Bt1-Bt2-Ck1-Ck2
+
+#### Lithologische discontinuïteit
+
+Een lithologische discontinuïteit is een significante verandering in het
+bodemmateriaal, bijvoorbeeld tussen het moedermateriaal en een
+onderliggend substraat (zie § [3.2](#substraat)). Dit kan zich
+weerspiegelen in een verandering in de korrel- groottesamenstelling
+en/of de mineralogie. Duid het verschil in substraat aan met een cijfer
+voor het hoofdsymbool. Bij het bovenste moedermateriaal dien je echter
+geen "1" te vermelden (@fig-04-04).
+
+::: {#fig-04-04}
+![](figuren/image39.png)
+
+Voorbeeld van een bodem die bestaat uit 4 verschillende moedermaterialen
+of 1 moedermateriaal en 3 substraten.
+:::
+
+## Antropogeen (mechanisch) aangevoerd materiaal
+
+Antropogeen (mechanisch) aangevoerd materiaal (meestal sinds de
+industriële periode) wordt geïdentificeerd aan de hand van:
+
+-   De manier van afzetting (abrupte grenzen, verdichting...),
+
+-   De aanwezigheid al dan niet van artefacten,
+
+-   De beperkte afwezigheid van bodemvormende kenmerken,
+
+-   Afwezigheid van natuurlijk transport (bijvoorbeeld door wind,
+    water...).
+
+Aardkundige eenheden ontwikkeld in antropogeen aangevoerd materiaal
+worden beschreven met hetzelfde detailniveau als horizonten ontwikkeld
+in het moedermateriaal. Het voorvoegsel \^ wordt gebruikt om door mensen
+vervoerd materiaal aan te duiden (Soil Survey Staff, 2014; Delbecque _et
+al._, 2022), terwijl het gebruik van bijkomende symbolen (@tbl-04-09)
+dienen om eigenschappen aan te duiden die van het antropogeen aangevoerd
+materiaal zelf zijn geërfd. Zie ook @fig-04-05 en @fig-04-06.
+
++------------+-------------------------------------------------------+
+| Symbool    | Beschrijving                                          |
++============+=======================================================+
+| \^T        | Technisch hard materiaal, aangevoerd (bv tegels,      |
+|            | betonlaag, glas, asfalt, ...)                         |
++------------+-------------------------------------------------------+
+| \^A        | Oppervlaktehorizont ontwikkeld in antropogeen         |
+|            | aangevoerd materiaal                                  |
++------------+-------------------------------------------------------+
+| \^Ah       | Oppervlaktehorizont ontwikkeld in antropogeen         |
+|            | aangevoerd materiaal aangerijkt met organisch mate-   |
+|            | riaal                                                 |
++------------+-------------------------------------------------------+
+| \^Ab       | Begraven oppervlaktehorizont van antropogeen          |
+|            | aangevoerd mineraal materiaal                         |
++------------+-------------------------------------------------------+
+| \^Bw       | Aangevoerd mineraal bodemmateriaal. De kleur- of      |
+|            | structuurontwikkeling ('w') is een kenmerk overge-    |
+|            | nomen van het aangevoerd materiaal of kan in situ     |
+|            | gevormd zijn                                          |
++------------+-------------------------------------------------------+
+| \^E        | Aangevoerd mineraal materiaal van een oorspronkelijke |
+|            | uitlogingshorizont                                    |
++------------+-------------------------------------------------------+
+| \^C        | Mineraal materiaal, waar sinds de antropogene         |
+|            | afzetting geen bodemvorming in opgetreden is, dus     |
+|            | waarin nog geen nieuwe bodemstructuur of verkleuring  |
+|            | voorkomt die erop wijst dat verwering heeft plaats    |
+|            | gevonden                                              |
++------------+-------------------------------------------------------+
+| \^Ch       | Aangevoerd mineraal materiaal rijk aan organisch      |
+|            | materiaal, waar sinds de antropogene afzetting geen   |
+|            | bodemvorming in opgetreden is                         |
++------------+-------------------------------------------------------+
+| \^Cu       | Aangevoerd mineraal materiaal gedomineerd door afval  |
+|            | van menselijke nederzettingen en/of industri- ele     |
+|            | residuen (slakkenhopen, bagger, klinkers, as, puin,   |
+|            | etc.)                                                 |
++------------+-------------------------------------------------------+
+
+: Voorbeelden van horizontbenamingen voor antropogeen (mechanisch)
+aangevoerd materiaal. {#tbl-04-09}
+
+::: {#fig-04-05}
+![](figuren/image46.jpeg)
+
+Voorbeelden van bodems met antropogeen (mechanisch) aangevoerd
+materiaal. Links: Een goed tot matig-goed gedraineerde lemig-zandbodem
+ontwikkeld in recent aangevoerd materiaal boven een slecht gedraineerde
+leembodem met een dikke humus A horizont (bodemtype Afe). \^Ah: in-situ
+horizont met organisch materiaal geaccumuleerd. \^Ap: sporen van
+bewerking, bevat stenen, asfalt en bouwpuin. Rechts: Onderaan een
+slechte gedraineerde leembodem met een duidelijke Ah horizont, die deels
+afgetopt is geweest. Bovenaan 170 cm aangevoerd grond. \^Au: lemig zand
+met zeer grove stenen. \^Cu1: mengeling grind, asfalt en grove stenen.
+\^Cu2: glauconiethoudend zand, met bouwpuin met grove stenen. Boven de
+\^Au-horizont ligt voor de aanleg van de profielput uitgegraven
+materiaal (Foto's: Stefaan Dondeyne).
+:::
+  
+<br/>
+
+::: {#fig-04-06}
+![](figuren/image47.jpeg)
+
+Voorbeeld van bodem met antropogeen aangevoerd materiaal. Begraven
+bodemprofiel (2Ap-2Bw-2CBg) bestaande uit restanten van een muur (T),
+met daaronder aangevoerd grofzand (C horizont), zandig aangevoerd
+materiaal dat initieel rijk was aan organisch materiaal (\^Ch), en een
+laag rijk aan bouwpuin resten (\^Cu) (Foto: Stefaan Dondeyne).
+:::
+
+### Textuur
+
+In de bodemkunde verwijst "**textuur**" naar de verhouding, uitgedrukt
+in een massapercentage, van drie **minerale** korrelgroottefracties
+klei, leem en zand in het fijne bodemmateriaal (fractie 0 -- 2 mm).
+Naargelang de verhouding van klei, leem en zand kan men verschillende
+textuurklassen onderscheiden (@tbl-04-10; @fig-04-07 en @fig-04-08).
+
++---------------------+----------------------------------------+
+| Categorie           | Benaming                               |
++=====================+========================================+
+| Z                   | Zand                                   |
++---------------------+----------------------------------------+
+| S                   | Lemig zand                             |
++---------------------+----------------------------------------+
+| P                   | Licht zandleem                         |
++---------------------+----------------------------------------+
+| L                   | Zandleem                               |
++---------------------+----------------------------------------+
+| A                   | Leem                                   |
++---------------------+----------------------------------------+
+| E                   | Klei                                   |
++---------------------+----------------------------------------+
+| U                   | Zware klei                             |
++---------------------+----------------------------------------+
+
+: De textuurklassen (categorieën) en hun benaming. {#tbl-04-10}
+
+<br/>
+
+> Voorbeeld:
+>
+> 10% klei, 60% leem en 30% zand (het totaal is steeds 100),
+> textuurklasse 'L -- Zandleem'
+
+<br/>
+
+
+De textuur kan met een handige veldtest (@fig-04-07) worden bepaald en
+aangeduid volgens de klasse-indeling en klas- segrenzen van de
+textuurdriehoek van de Belgische bodemkartering (figuur 13). Opletten,
+bij een hoger gehalte aan organisch materiaal kan in het veld de textuur
+kleirijker aanvoelen.
+
+::: {#fig-04-07}
+![](figuren/image48.png)
+
+Bepalen van de textuur in het veld (door Sylvia Mazereel en
+naar Petit & Heyninck 2019)
+:::
+
+<br/>
+
+::: {#fig-04-08}
+![](figuren/image54.jpeg)
+
+De fijne minerale bodemfractie (\< 2mm) en de textuurklassen gebruikt bij de 
+Belgische bodemkartering. De streepjeslijnen tonen een voorbeeld bestaande uit
+10% klei, 30% zand en 60% leem. Dit voorbeeld komt terecht in de 
+textuurklasse L - Zandleem.
+:::
+
+
+#### Aanwezigheid van kleihuidjes
+
+Onder bepaalde omstandigheden zal klei migreren in de bodem. Het
+herkennen van dit bodemproces tijdens het veld- werk is belangrijk
+(ouderdom, pH-regime, ...). Gebruik een handlens om kleihuidjes op
+structuuroppervlakken of in poriën te kunnen vaststellen (zie ook @fig-04-17).
+Noteer ook of het gaat om klei, klei + humus of klei + ijzer huidjes.
+
+-   Zie ook @tbl-04-08: voor het toepassen van het bodemhorizontsymbool
+    't'.
+
+-   Zie ook @tbl-05-??32: voor het toepassen van de Belgische
+    bodemkaartsymbolen 'a' en 'c'.
+
+
+## Grove fragmenten
+
+'Grove fragmenten' in de bodem hebben een diameter groter dan 2 mm (voor
+oppervlaktestenen zie § [4.1](#Oppervlaktestenen). Het kan gaan om grind,
+gesteentefragmenten, bakstenen, etc. maar niet om materiaal van
+organische oorsprong zoals wortels, takken etc.
+
+Verschillende eigenschappen kunnen worden beschreven: oorsprong,
+frequentie (@tbl-04-11), grootte (@tbl-04-12), vorm (@tbl-04-13), staat van
+verwering en aard van de fragmenten.
+
+Figuur 14 kan helpen bij de visuele schatting van het volume aan grove
+fragmenten zichtbaar op de bodemwand (Let op: er is een algemene neiging
+om de hoeveelheden te overschatten). Gebruik hiervoor de categorieën uit
+@tbl-04-11.
+
+| Categorie            |
+|----------------------|
+| Geen (0 %)           |
+| Zeer weinig (0-2 %)  |
+| Weinig (2-5 %)       |
+| Vaak (5-15 %)        |
+| Veel (15-40 %)       |
+| Zeer veel (40 %)     |
+
+: De categorieën voor de frequentie grove fragmenten. {#tbl-04-11}
+
+
+::: {#fig-04-09}
+![](figuren/image55.png)
+
+Referentie voor het visueel schatten van het oppervlakte percentage aan 
+vlekken, of van het volume percentage aan grove fragmenten (of andere elementen)
+:::
+
+
+
++------------------------------------+-----------------------------+
+| Categorie                          | Grootte                     |
++====================================+=============================+
+| Fijn (0,2--0,6 cm) \| G            | rind                        |
++------------------------------------+-----------------------------+
+| Gemiddeld (0,6--2 cm) \| G         | rind                        |
++------------------------------------+-----------------------------+
+| Grof (2--6 cm) \| G                | rind                        |
++------------------------------------+-----------------------------+
+| Zeer grof (\\6 cm) \| St           | enen en rotsen              |
++------------------------------------+-----------------------------+
+
+: Categorieën voor de grootte van de grove fragmenten. {#tbl-04-12}
+
++-----------------------------------------------------------------------+
+| Categorie                                                             |
++=======================================================================+
+| Plat                                                                  |
++-----------------------------------------------------------------------+
+| Hoekig                                                                |
++-----------------------------------------------------------------------+
+| Gedeeltelijk afgerond                                                 |
++-----------------------------------------------------------------------+
+| Afgerond                                                              |
++-----------------------------------------------------------------------+
+
+: Categorieën voor de dominante vorm van de fragmenten. {#tbl-04-13}
+
+
+Bij gesteentefragmenten kan je de staat van verwering beschrijven (@tbl-04-14).
+
++-------------+------------------------------------------------------+
+| Categorie   | Omschrijving                                         |
++=============+======================================================+
+| Vers of     | fragmenten vertonen weinig of geen sporen van        |
+| licht       | verwering                                            |
+| verweerd    |                                                      |
++-------------+------------------------------------------------------+
+| Verweerd    | gedeeltelijke verwering wordt aangegeven door        |
+|             | verkleuring en verlies van kristalvorm in het        |
+|             | buitenste deel van de fragmenten, terwijl de kernen  |
+|             | relatief vers blijven; fragmenten hebben weinig van  |
+|             | hun oorspronkelijke sterkte verloren                 |
++-------------+------------------------------------------------------+
+| Sterk       | alle behalve de meest resistente mineralen zijn sterk|
+| verweerd    | verkleurd en veranderd; de frag- menten hebben de    |
+|             | neiging onder (hand)druk uiteen te vallen            |
++-------------+------------------------------------------------------+
+
+: De categorieën voor de staat van verwering van de grove fragmenten te 
+omschrijven. {#tbl-04-14}
+
+
+### Type fragmenten
+
+De grove fractie wordt in antropogeen materiaal en natuurlijke
+gesteentefragmenten onderverdeeld.
+
+> Voorbeeld:
+>
+> [Antropogeen]{.underline}: Baksteen; steenkool; houtskool; aardewerk;
+> mortel/pleister;
+> [Natuurlijk]{.underline}: keien; schelpen; natuurlijk voorkomende stenen;
+
+
+### Distributie/verspreiding van de grove fractie in het profiel
+
+Bestudeer de verspreiding van zowel de natuurlijke gesteenten als van
+het antropogene materiaal.
+
+> Voorbeeld:
+>
+> -   Willekeurig
+> -   Geconcentreerd
+> -   In een laag
+> -   In een spoor
+
+
+### Cappings en pendants
+
+#### Cappings
+
+Gesteentefragmenten in de bodem kunnen, onder invloed van vries/dooi
+cycli, aan hun bovenkant een sterke adhesie vertonen met de bodemmatrix
+waarin ze zich bevinden. Aan de onderkant van het gesteente kleeft er
+geen of weinig matrixmateriaal aan het gesteente. De stenen in kwestie
+zijn als het ware voorzien van een soort 'sedimentkapje' (@fig-04-10).
+
+::: {#fig-04-10}
+![](figuren/image56.jpeg)
+
+Voorbeeld van capping op gesteenten. (copyright en Foto: Roger Langohr).
+:::
+
+Artefacten die dergelijk kenmerk bezitten wijzen op een periode met
+belangrijke vries/dooi in de bodem. De laatste periode is tijdens de
+Jonge Dryas. Het is belangrijk om artefacten van vóór en na de Jonge
+Dryas te onderscheiden vermits het belangrijke informatie vormt over de diverse
+perioden van het Finaal-Paleolithicum (±13.000-9.600 BP).
+
+Omdat de capping niet bij elk fragment even sterk is ontwikkeld, bekijk
+je er best een aantal terwijl je er goed op let ze in dezelfde positie
+te houden, zoals ze in de bodem voorkomen. Het is belangrijk de
+artefacten met capping niet schoon te maken, zo niet gaat deze
+essentiële bodemkundige informatie verloren!
+
+Normaal bevindt de capping zich aan de bovenzijde van artefacten; indien
+dit niet het geval is, wijst dit op een latere verstoring (cryoturbatie,
+bioturbatie...).
+
+
+#### Pendants
+
+Een pendant is een laminaire accumulatie van bodemvormend materiaal,
+bijvoorbeeld calciumcarbonaat of silica, dat accumuleert onderaan de
+grove fractie (grind, stenen, ...) die aanwezig is in de bodem (@fig-04-11).
+
+::: {#fig-04-11}
+![](figuren/image57.jpeg)
+
+Voorbeeld van pendants op gesteenten (copyright en Foto's: Roger Langohr).
+:::
+
+
+
+## Bodemstructuur
+
+Bodemstructuur gaat over de natuurlijke aggregaten die door barsten of
+poriën van elkaar zijn gescheiden. Bodem- structuur wordt aan de hand
+van de dominante vorm, de afmetingen, de graad en oorsprong van
+ontwikkeling van de aggregaten (@fig-04-12) beschreven. Opletten, de
+beschrijving van kruimelige structuur volgt Ameryckx _et al._, 1995 en is
+conform de Belgische bodemkartering en de Vlaamse bodemdatabanken. Deze
+definitie is anders dan die van FAO 2006.
+
+#### Types van bodemstructuur
+
+Beschrijf de types (categorieën) van bodemstructuren volgens @tbl-04-15.
+
++------------+-------------------------------------------------------+
+| Categorie  | Omschrijving                                          |
++============+=======================================================+
+| Kruimelig  | Sferisch, zeer poreus, eenheden die niet in elkaar    |
+|            | passen. De kruimelstructuur kent een goede            |
+|            | lucht-water verhouding. Een goed ontwikkelde          |
+|            | kruimelstructuur wordt vaak met                       |
+|            | regenwormuitwerpselen, molshopen en sterke            |
+|            | doorworteling in graszoden geassocieerd, maar ook in  |
+|            | goed beheerde akkerlanden met organische mest en      |
+|            | groenbedekkers kan de ploeglaag een goed ontwikkelde  |
+|            | kruimelstructuur vertonen                             |
++------------+-------------------------------------------------------+
+| Granulair  | Sferisch, weinig poreus, aggregaten zijn gebogen of   |
+|            | onregelmatig van vorm. Naast elkaar liggende          |
+|            | aggregaten passen niet in elkaar. Onder andere        |
+|            | gevormd door vries/dooi in klei- rijke bodems en een  |
+|            | sterke biologische activiteit aan het bodemoppervlak  |
++------------+-------------------------------------------------------+
+| Platig     | Plaat-, blad- of lensvormen, liggen meestal evenwijdig|
+|            | aan het bodemoppervlak. De dikte varieert van amper   |
+|            | een millimeter (blad) tot enkele centimeters. Meestal |
+|            | gevormd ten gevolge van compactie (betreding of       |
+|            | berijding bijvoorbeeld) of door vries/dooi cycli en   |
+|            | komt in dat geval eerder voor in een compacte         |
+|            | horizont of laag (bv.: Bt-horizont...). Opge- let:    |
+|            | dit mag niet verward worden met stratificatie of      |
+|            | gelaagdheid (zie hieronder)                           |
++------------+-------------------------------------------------------+
+| Hoekig-    | Kubusvorm, bijna equidimensionaal, met relatief       |
+| blokkig    | scherpe hoeken en vlakke oppervlakken die goed        |
+|            | aansluiten met de omliggende blokeenheden, doorgaans  |
+|            | enkele cm in diameter. Gevormd door alternerend       |
+|            | zwellen en krimpen ten gevolge van wisselingen in de  |
+|            | bodem- vochtigheid, vandaar een sterk verband met de  |
+|            | hoeveelheid klei: hoe meer klei, hoe beter ontwikkeld |
++------------+-------------------------------------------------------+
+| Subhoekig- | Zoals voorgaande maar met afgeronde oppervlakken,     |
+| blokkig    | genese zoals voorgaande maar met een zekere invloed   |
+|            | van biologische activiteit, vandaar de meer afgeronde |
+|            | morfologie                                            |
++------------+-------------------------------------------------------+
+| Prismatisch| De afmetingen zijn groter in verticale dan in         |
+|            | horizontale richting, vormt polygonen in horizontaal  |
+|            | vlak. De prisma's kunnen meerdere decimeters in       |
+|            | diameter zijn, de vorming ervan is vooral te wijten   |
+|            | aan alternerend zwellen en krimpen ten gevolge van    |
+|            | wisselingen in de bodemvochtigheid, krimp alleen komt |
+|            | voor bij uitdroging van waterverzadigde bo- dems      |
+|            | (frequent in archeologische structuren), of bij       |
+|            | permafrost (fragipan horizont)                        |
++------------+-------------------------------------------------------+
+| Loskorrelig| Loskorrelig in geval van zand (bv. duinzanden)        |
+|            | (Structuurloos)                                       |
++------------+-------------------------------------------------------+
+| Massief    | Massief kan voorkomen bij fijnere bodemtexturen. Er is|
+|            | geen organisatie van de bodem- deeltjes in aggregaten |
+|            | (recent alluvium en colluvium, recente stortlaag)     |
+|            | (Structuurloos)                                       |
++------------+-------------------------------------------------------+
+| Gelaagd    | De bodem is uit sedimentaire lagen opgebouwd          |
+|            | (Structuurloos)                                       |
++------------+-------------------------------------------------------+
+
+: De types van bodemstructuur (categorieën) en hun omschrijving. {#tbl-04-15}
+  
+  
+::: {#fig-04-12}
+![](figuren/image58.png)
+
+Types bodemstructuren (door Sylvia Mazereel en vereenvoudigd volgens FAO, 2006)
+:::
+
+
+#### De afmetingen
+
+De afmetingen van de bodemstructuureenheden kunnen met grootteklassen
+worden beschreven (@tbl-04-16).
+
+<br/>
+
+> Voorbeeld
+>
+> Zeer grof of dik prismatisch (300-400 mm)
+
+<br/>
+
++------------------+-------------------+--------------+-------------------+
+| Categorie        | Kruimelig/blokkig | Prismatisch  | Platig/granulair  |
+|                  | (mm)              | (mm)         | (mm)              |
++==================+===================+==============+===================+
+| Zeer fijn of dun | 0-5               | 0-10         | 0-1               |
++------------------+-------------------+--------------+-------------------+
+| Fijn of dun      | \>5-10            | \>10-20      | \>1-2             |
++------------------+-------------------+--------------+-------------------+
+| Medium           | \>10-20           | \>20-50      | \>2-5             |
++------------------+-------------------+--------------+-------------------+
+| Grof of dik      | \>20-50           | \>50-100     | \>5-10            |
++------------------+-------------------+--------------+-------------------+
+| Zeer grof of dik | \>50              | \>100-500    | \>10              |
++------------------+-------------------+--------------+-------------------+
+| Extreem grof     | -                 | \>500        | -                 |
++------------------+-------------------+--------------+-------------------+
+
+: Grootteklassen en afmetingen in mm in functie van het type bodemstructuur {#tbl-04-16}
+
+
+#### De graad van structuurontwikkeling
+
+De ontwikkeling van de bodemstructuur is afhankelijk van de
+vochtigheidsgraad: hoe droger, hoe gemakkelijker je de aggregaten, door
+het krimpproces bij uitdrogen, kan herkennen.
+
+Als de structuur niet goed ontwikkeld is, kan het moeilijk zijn om de
+mate van ontwikkeling van de structuur in te schatten, vooral als de
+bodem vochtig is. Kijk of de aggregaten aan alle kanten of slechts aan
+enkele zijden goed zijn afgebakend en hoe gemakkelijk de aggregaten van
+elkaar te scheiden zijn. De graad van ontwikkeling van structuur wordt
+gedefinieerd in @tbl-04-17.
+
++-----------+-------------------------------------------------------+
+| Categorie | Beschrijving                                          |
++===========+=======================================================+
+| Geen      | Structuurloos, zoals voor loskorrelig, massief of     |
+|           | gelaagd (@fig-04-12)                                  |
++-----------+-------------------------------------------------------+
+| Zwak      | Aggregaten zijn nauwelijks waarneembaar, er is slechts|
+|           | een zwakke schikking van natuurlijke oppervlakken.    |
+|           | Bij een zachte verstoring breekt het bodemmateriaal   |
+|           | in een mengeling van weinig volledige aggregaten,     |
+|           | veel gebroken aggregaten en veel materiaal zonder     |
+|           | aggregaatvlakken.                                     |
++-----------+-------------------------------------------------------+
+| Matig     | Aggregaten zijn in het profiel waarneembaar en er is  |
+|           | een duidelijke schikking van structuurvlakken. Bij    |
+|           | verstoring breekt het bodemmateriaal in een mengeling |
+|           | van vele volledige aggregaten, sommige gebroken       |
+|           | aggregaten en weinig materiaal zonder                 |
+|           | aggregaatvlakken. De oppervlakken vertonen over het   |
+|           | algemeen duidelijke verschillen met de binnenkant van |
+|           | de aggregaten.                                        |
++-----------+-------------------------------------------------------+
+| Sterk     | Aggregaten zijn duidelijk waarneembaar en er is een   |
+|           | uitgesproken schikking van de structuurvlak- ken. Bij |
+|           | verstoring valt het bodemmateriaal vooral uiteen in   |
+|           | volledige aggregaten. De structuurvlak- ken van de    |
+|           | aggregaten en de binnenkant van de aggregaten         |
+|           | verschillen sterk van kleur                           |
++-----------+-------------------------------------------------------+
+
+: Categorieën voor de graad van de structuurontwikkeling. {#tbl-04-17}
+
+
+#### Samengestelde structuur
+
+De aanwezigheid van meer dan één structuurtype in een bodemhorizont komt
+geregeld voor. In zo'n geval worden beide structuurtypes volgens vorm,
+afmeting en graad van ontwikkeling beschreven.
+
+> Voorbeeld
+>
+> Sterk prismatisch, tot 30 cm diameter, brekend in matig hoekige
+blokstructuur van 2-4 cm diameter (@fig-04-13).
+
+::: {#fig-04-13}
+
+![](figuren/image71.jpeg)
+
+Voorbeeld van een bodem met aan de bovenkant een
+prismatisch structuur die uiteen valt in hoekig-blokkig. Het profiel
+toont een Grondwaterpodzol op dekzanden afgedekt door 40-45 cm
+polderklei. (copyright en foto: Jari Mikkelsen).
+:::
+
+
+### Cementatie
+
+De belangrijkste cementerende stoffen zijn:
+
+-   Silicium
+
+-   Kalk
+
+-   IJzer
+
+-   Mangaan
+
+-   Humus.
+
+Gecementeerde horizonten of bodemlagen hebben meestal een grove
+korrelgrootte (zand, grind) (@fig-04-14, links en @fig-04-14, rechts) omdat 
+er slechts een kleine hoeveelheid cement nodig is om de contactvlakken van 
+grote korrels aan elkaar te doen kitten. De humus/ijzer-aanrijkingshorizont
+van podzolen kan soms gecementeerd zijn. Wortels kunnen niet door een
+gecementeerde horizont groeien tenzij langs barsten. Een gecementeerd
+bodemfragment valt [niet]{.underline} uit elkaar wanneer een luchtdroog
+fragment gedurende 1 uur in water wordt ondergedompeld. Voor de graad
+van cementatie zie @tbl-04-18.
+
+::: {#fig-04-14}
+![](figuren/image72.jpeg)
+
+Voorbeelden van cementatie van de bodem.
+[Links]{.underline}: grindpakket gecementeerd door kalk (rode pijl). De
+cementatie wordt opgebroken/ opgelost in het Holoceen onder impuls van
+de biologische activiteit (witte pijl). Parijs-Louvre Jardins du
+Carrousel, laagterras van de Seine, (copyright Fouilles du Carrousel).
+[Rechts]{.underline}: IJzeroxidecementatie van het bodemprofiel tussen
+30 en 60 cm, hier gebruikt als bouwmateriaal in een weg uit de Romeinse
+periode in Grobbendonk \[Foto: Stefaan Dondeyne\].
+:::
+
+
++--------------+-----------------------------------------------------+
+| Categorie    | Omschrijving                                        |
++==============+=====================================================+
+| Zwak         | Gecementeerde massa is broos en hard, maar kan je   |
+|              | tussen de vingers breken                            |
++--------------+-----------------------------------------------------+
+| Matig        | Gecementeerde massa kan je niet tussen de vingers,  |
+|              | maar wel met de handen breken                       |
++--------------+-----------------------------------------------------+
+| Sterk        | Gecementeerde massa kan je niet met de handen breken|
++--------------+-----------------------------------------------------+
+
+: De graad van cementatie. {#tbl-04-18}
+
+
+### Compactie
+
+Compacte bodemhorizonten of lagen komen onder andere voor in akkers
+(ploegzool) bewerkt onder ongunstige omstandigheden, zones van betreding
+rond huizen, bij bosontginning, wegen en paden, drinkplaatsen van vee,
+recreatie. Natuurlijke processen zoals vries/dooi cycli en permafrost
+kunnen de bodem ook sterk compact maken.
+
+**Let op**: gecompacteerde bodemhorizonten of lagen zijn niet
+noodzakelijk gecementeerd. Compactheid is een ander bodemkenmerk. Een
+compact, niet gecementeerd bodemfragment valt uit elkaar als het
+luchtdroog in water wordt ondergedompeld.
+
+
+### Levende wortels
+
+Aanwezigheid (**ja/neen**) van levende wortels, hun grootte en
+hoeveelheid kan een belangrijke informatiebron zijn. Als er in het
+profiel een plotselinge verandering in de hoeveelheid en/of de grootte
+van de wortels voorkomt, is het belangrijk om uit te leggen waarom.
+Mogelijke wortelbeperkende factoren zijn: verdichting, cementatie,
+discontinu poriënsysteem, verandering in textuur enz. Soms kan het handig zijn
+om extra informatie te noteren, zoals een abrupte verandering in de
+wortel-oriëntatie.
+
+
+#### Aantal
+
+Het aantal levende wortels wordt per vierkante decimeter op een
+verticaal bodemoppervlak ingeschat. Maak een inschatting van het aantal
+wortels per grootteklasse (@tbl-04-19).
+
++----------------+-----------+----------+-----------+--------+
+| Grootteklasse  | Zeer fijn | Fijn     | Medium    | Grof   |
+|                |           |          |           |        |
+| Aantal:        | \<0,5 mm  | 0,5-2 mm | \> 2-5 mm | \>5 mm |
++================+===========+==========+===========+========+
+| Geen           | -         | -        | -         | -      |
++----------------+-----------+----------+-----------+--------+
+| Zeer weinig    | 1-20      | 1-20     | 1-2       | 1-2    |
++----------------+-----------+----------+-----------+--------+
+| Weinig         | 21-50     | 21-50    | 3-5       | 3-5    |
++----------------+-----------+----------+-----------+--------+
+| Matig veel     | 5 1-200   | 5 1-200  | 6-20      | 6-20   |
++----------------+-----------+----------+-----------+--------+
+| Veel           | \>200     | \>200    | \>20      | \>20   |
++----------------+-----------+----------+-----------+--------+
+
+: De grootteklassen en de afmetingen in functie van de frequentie van wortels 
+per dm². {#tbl-04-19}
+
+
+> Voorbeeld
+>
+> Matig veel zeer fijne, weinig fijne, zeer weinig medium en geen grove
+wortels
+
+
+### Sporen van dierenactiviteit
+
+#### Type van dierenactiviteit
+
+Indien mogelijk kan het type dierenactiviteit worden beschreven.
+
+> Voorbeelden
+>
+> -   Mollengang, molshoop
+> -   Regenwormkanaal, regenwormuitwerpselen
+> -   Crotovina (galerij opgevuld met uitwerpselen van talrijke soorten
+    dieren, inclusief regenwormen)
+> -   Galerijen van grotere zoogdieren als konijnen en dassen
+> -   Mierengang en -nest
+> -   Andere insectenactiviteit (bv. mestkevers)
+> -   Andere (definieer)
+
+
+#### Concentratie
+
+Maak een schatting van het aantal sporen van biologische activiteit als
+een percentage van de oppervlakte of tel in aantallen per vierkante
+meter (@tbl-04-20). De voorkeur gaat hier naar een horizontaal vlak voor
+verticale graafactiviteit (grote regenwormen).
+
++-----------------------------------------------------------------------+
+| Categorie                                                             |
++=======================================================================+
+| Geen                                                                  |
++-----------------------------------------------------------------------+
+| Zeer weinig (0-2 %)                                                   |
++-----------------------------------------------------------------------+
+| Weinig (2-5 %)                                                        |
++-----------------------------------------------------------------------+
+| Vaak (5-15 %)                                                         |
++-----------------------------------------------------------------------+
+| Veel (15-40 %)                                                        |
++-----------------------------------------------------------------------+
+| Zeer veel (\\40 %)                                                    |
++-----------------------------------------------------------------------+
+
+: Categorieën voor de concentratie aan biogalerijen in de bodem. {#tbl-04-20}
+
+
+#### Toestand
+
+Noteer of de faunagalerijen open of opgevuld zijn en of de biogalerijen
+abrupt stoppen (afgetopt zijn).
+
+#### Geassocieerde kennmerken
+
+Wortelpenetratie, oxido-reductie langs wanden (ontijzering, neerslag van
+ijzer, van mangaan)
+
+### Kalkreactie met HCl (carbonaten)
+
+De aanwezigheid van carbonaten stel je vast door enkele druppels van een
+zuur (waterstofchloride,10% HCl) aan een bodemmonster toe te voegen.
+Gebruik hiervoor een flesje voorzien van een druppelteller. HCl kan je
+in de handel kopen en dien je te verdunnen met gedistilleerd of
+gedemineraliseerd water tot een concentratie van ongeveer 10%. Wanneer
+carbonaten aanwezig zijn, zal het monster opbruisen/"reageren" met de
+vorming van schuim ten gevolge van de productie van CO~2~ gas. De exacte
+hoeveelheid carbonaten wordt, indien nodig voor verder onderzoek, in het
+laboratorium bepaald. De kalk kan afkomstig zijn van bijvoorbeeld
+schelpen, mortel, cement, wortelgroei en pseudomycelium,
+kalkaanrijking vanuit het grondwater, etc.
+
+-   Welke horizonten in de bodem zijn kalkrijk?
+
+    + Als er sporen van kalk in ten minste één aardkundige eenheid van het 
+    bodemprofiel worden gevonden, is het aangeraden de aanwezigheid/afwezigheid 
+    ervan voor alle eenheden te registreren.
+
+-   Waar zit de kalk in de bodemhorizont?
+
+    + Noteer of er kalkrijke elementen zijn, dus waar zit de kalk (bv. in de 
+    poriën, in de antropogene elementen zoals kalkmortelbrokken, in de matrix...)
+
+-   Is de kalk primair of secundair?
+
+    + Carbonaten komen voor in bodems onder primaire vorm (moedermateriaal, 
+    bijvoorbeeld in löss) en secundaire vorm (concreties, nodules), als gevolg 
+    van oplossing en opnieuw neerslaan als deel van de bodemvorming. 
+    Het is belangrijk deze twee vormen te onderscheiden.
+
+-   Kalkklassen na toevoegen HCl, volgende categorieën kunnen toegepast
+    worden (@tbl-04-21).
+
++---------------+----------------------------------------------------+
+| Categorie     | Omschrijving                                       |
++===============+====================================================+
+| Kalkloos      | Geen hoorbare of zichtbare reactie                 |
++---------------+----------------------------------------------------+
+| Licht         | De reactie is enkel hoorbaar                       |
+| kalkrijk      |                                                    |
++---------------+----------------------------------------------------+
+| Matig         | Opbruising, de reactie is ook zichtbaar            |
+| kalkrijk      |                                                    |
++---------------+----------------------------------------------------+
+| Sterk         | Heel sterk opbruisend, bubbels vormen een lage     |
+| kalkrijk      | schuimlaag                                         |
++---------------+----------------------------------------------------+
+| Extreem       | Extreem sterke opbruising, de bubbels vormen snel  |
+| kalkrijk      | een dikke schuimlaag                               |
++---------------+----------------------------------------------------+
+
+: De klassen aan kalkconcentratie in de bodem. {#tbl-04-21}
+
+
+### Accumulatie van ijzer en mangaan
+
+IJzer en mangaan kunnen in bijzondere milieucondities (in een reducerend
+of zuurstofarm milieu) oplossen, (dit proces zal vooral uitgesproken
+zijn in zure bodems), migreren en ten slotte neerslaan in zones waar
+terug zuurstof aanwezig is (oxidatie).
+
+Zeker vier vormen van neerslag kunnen voorkomen:
+
+-   Een aanrijking van de bodemmatrix onder de vorm van "vlekken" of
+    zones van concentraties (@fig-04-15);
+
+-   Concreties: een concentrische sferoïdale vorm, meestal gecementeerd
+    (@fig-04-16);
+
+-   Nodules: knobbels zonder concentrische vorm;
+
+-   Huidjes: op structuurvlakken en langs galerijen of poriën (@fig-04-17) 
+
+::: {#fig-04-15}
+![](figuren/image73.jpeg)
+
+Concentratie van mangaan (zwarte pijlen) en van ijzer (rode
+pijlen) als gevolg van oxido-reductie. De sterke instulping rechts van
+de meter is een karrespoor. Karolingische periode, ijzerontginning met
+laagovens in het Zoniënwoud. (copyright en foto Jari Mikkelsen).
+:::
+
+::: {#fig-04-16 layout-ncol=2}
+![](figuren/image74.jpeg)
+
+![](figuren/image75.jpeg)
+
+Concentratie van mangaan en ijzer als gevolg van oxido-reductie. Lokaal zijn
+ijzerconcreties gevormd (rode pijlen) (copyright en foto's Jari Mikkelsen).
+:::
+
+
+::: {#fig-04-17 layout-ncol=2}
+
+![](figuren/image76.jpeg)
+
+![](figuren/image77.jpeg)
+
+Boven voorbeeld van klei-ijzerhuidjes op structuurvlakken,
+onder klei-humushuidjes in een wormgang. Deze voorbeelden zijn erg
+duidelijk, meestal zijn ze iets subtieler (copyright en foto's: Stefaan
+Dondeyne).
+:::
+
