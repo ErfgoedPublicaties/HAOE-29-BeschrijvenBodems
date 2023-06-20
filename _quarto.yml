@@ -40,7 +40,6 @@ book:
       affiliations: "agentschap Onroerend Erfgoed"
 
     - name: Roger Langohr
-      # orcid: 0000-0003-1997-4473
       affiliations: "Professor emeritus Universiteit Gent"
 
   publisher: "agentschap Onroerend Erfgoed"
@@ -76,6 +75,7 @@ book:
       chapters:
       - 99_CGP5.qmd
 
+engine: knitr
 
 title-block-banner: "#914f9a"
 title-block-banner-color: white

@@ -7,10 +7,14 @@ Met deze online versie willen we kleine aanpassingen aan de originele uitgave, v
 
 ### Citeren
 
+```{r eval=F}
+# R chunck toegevoeggd zodat krnitr wordt aangesproken om het document om te zetten naar .md. Indien geen r chunck wordt gedetecteerd, zal het niet als Rmd worden aanzien.
+1+1
+```
+
 Gelieve te citeren als: <br/>
 
-Mikkelsen J., Ampe C., Cools N., Devos Y., Dondeyne S., Oorts K., Pieters M. & Langohr R. (`r Sys.Date()`): Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen, Handleidingen agentschap Onroerend Erfgoed, Brussel.
-<https://hanecakr.github.io/handleidingBeschrijvenBodems/>
+Mikkelsen J., Ampe C., Cools N., Devos Y., Dondeyne S., Oorts K., Pieters M. & Langohr R. (`r Sys.Date() |> format("%Y")`) : Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen, Handleidingen agentschap Onroerend Erfgoed, Brussel. <https://hanecakr.github.io/handleidingBeschrijvenBodems/> (geraadpleegd op `r Sys.Date() |> format("%d-%m-%Y")`)
 
 
 Oorspronkelijke gepubliceerd als: <br/>
