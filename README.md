@@ -2,4 +2,4 @@
 
 Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen
 
-[https://hanecakr.github.io/handleidingBeschrijvenBodems/](https://hanecakr.github.io/handleidingBeschrijvenBodems/)]
+[https://publicaties.onroerenderfgoed.be/HAOE-21-BeschrijvenBodems/](https://publicaties.onroerenderfgoed.be/HAOE-21-BeschrijvenBodems/)]
