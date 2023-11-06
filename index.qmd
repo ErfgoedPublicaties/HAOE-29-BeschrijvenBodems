@@ -1,4 +1,4 @@
-# Woord vooraf {.unnumbered}
+## Woord vooraf {.unnumbered}
 
 
 Welkom bij de online versie van de **Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen**. Deze handleiding werd in 2023 gepubliceerd door het **agentschap Onroerend Erfgoed** en is als pdf te downloaden op de [**Open Archives Repository (OAR)**](https://doi.org/10.55465/TJAE3292).
@@ -14,7 +14,7 @@ Met deze online versie willen we kleine aanpassingen aan de originele uitgave, v
 
 Gelieve te citeren als: <br/>
 
-Mikkelsen J., Ampe C., Cools N., Devos Y., Dondeyne S., Oorts K., Pieters M. & Langohr R. (`r Sys.Date() |> format("%Y")`) : Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen, Handleidingen agentschap Onroerend Erfgoed, Brussel. <https://hanecakr.github.io/handleidingBeschrijvenBodems/> (geraadpleegd op `r Sys.Date() |> format("%d-%m-%Y")`)
+Mikkelsen J., Ampe C., Cools N., Devos Y., Dondeyne S., Oorts K., Pieters M. & Langohr R. (`r Sys.Date() |> format("%Y")`) : Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen, Handleidingen agentschap Onroerend Erfgoed, Brussel. <https://publicaties.onroerenderfgoed.be/HAOE-21-BeschrijvenBodems> (geraadpleegd op `r Sys.Date() |> format("%d-%m-%Y")`)
 
 
 Oorspronkelijke gepubliceerd als: <br/>

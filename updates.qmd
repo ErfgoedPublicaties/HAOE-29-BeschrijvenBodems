@@ -5,9 +5,12 @@ In het overzicht hier onder worden de belangrijkste wijzigingen ten opzichte van
 <br/>
 <br/>
 
-#### 0.0.1 (23-05-2023)  
+#### 1.0.0 (23-05-2023)  
 
 - ***Veldhandleiding voor het beschrijven van bodems bij archeologisch onderzoek in Vlaanderen*** online te raadplegen via <https://hanecakr.github.io/handleidingBeschrijvenBodems/>, zoals gepubliceerd door Mikkelsen *et al.* in 2023.
 
 
+#### 1.1.0 (06-11-2023)
 
+- Online versie handleiding overgebracht naar <https://github.com/ErfgoedPublicaties>.
+- Nieuwe URL website: <https://publicaties.onroerenderfgoed.be/HAOE-21-BeschrijvenBodems/>.

@@ -49,13 +49,12 @@ book:
   sharing: [twitter, facebook, linkedin]
   twitter-card:
     image: "/docs/figuren/cover.jpg"
-  repo-url: https://github.com/hanecakr/handleidingBeschrijvenBodems/
+  repo-url: https://github.com/ErfgoedPublicaties/HAOE-21-BeschrijvenBodems/
   repo-actions: [edit, issue]
-  site-url: https://hanecakr.github.io/handleidingBeschrijvenBodems/
+  site-url: https://publicaties.onroerenderfgoed.be/HAOE-21-BeschrijvenBodems/
 
-  sidebar:
-    logo: "/figuren/qr_bodems.png"
-  #   title: "Hoofdstukken"
+  # sidebar:
+  # logo: "/figuren/qr_bodems.png"
   # google-analytics:
   #  tracking-id: "G-WFNTWBH9Q4"
   chapters:
