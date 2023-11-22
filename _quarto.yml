@@ -49,9 +49,9 @@ book:
   sharing: [twitter, facebook, linkedin]
   twitter-card:
     image: "/docs/figuren/cover.jpg"
-  repo-url: https://github.com/ErfgoedPublicaties/HAOE-21-BeschrijvenBodems/
+  repo-url: https://github.com/ErfgoedPublicaties/HAOE-29-BeschrijvenBodems/
   repo-actions: [edit, issue]
-  site-url: https://publicaties.onroerenderfgoed.be/HAOE-21-BeschrijvenBodems/
+  site-url: https://publicaties.onroerenderfgoed.be/HAOE-29-BeschrijvenBodems/
 
   # sidebar:
   # logo: "/figuren/qr_bodems.png"
